@@ -6,8 +6,8 @@
       "file": "Class 9/English Medium/Social Science I/Subject Overview Part 2.md",
       "x": 0,
       "y": 0,
-      "width": 420,
-      "height": 160,
+      "width": 1260,
+      "height": 480,
       "color": "5"
     },
     {
@@ -15,19 +15,19 @@
       "type": "file",
       "file": "Class 9/English Medium/Social Science I/Chapters/Chapter 01 - From-Land-of-Cholas-to-Delhi.md",
       "x": 0,
-      "y": 200,
-      "width": 420,
-      "height": 160,
+      "y": 600,
+      "width": 1260,
+      "height": 480,
       "color": "5"
     },
     {
       "id": "n3",
       "type": "file",
       "file": "Class 9/English Medium/Social Science I/Exercises/01 - From-Land-of-Cholas-to-Delhi Activities.md",
-      "x": 560,
-      "y": 200,
-      "width": 420,
-      "height": 160,
+      "x": 1680,
+      "y": 600,
+      "width": 1260,
+      "height": 480,
       "color": "4"
     },
     {
@@ -35,19 +35,19 @@
       "type": "file",
       "file": "Class 9/English Medium/Social Science I/Chapters/Chapter 02 - Extension-of-Democracy-through-Institutions.md",
       "x": 0,
-      "y": 500,
-      "width": 420,
-      "height": 160,
+      "y": 1500,
+      "width": 1260,
+      "height": 480,
       "color": "5"
     },
     {
       "id": "n5",
       "type": "file",
       "file": "Class 9/English Medium/Social Science I/Exercises/02 - Extension-of-Democracy-through-Institutions Activities.md",
-      "x": 560,
-      "y": 500,
-      "width": 420,
-      "height": 160,
+      "x": 1680,
+      "y": 1500,
+      "width": 1260,
+      "height": 480,
       "color": "4"
     },
     {
@@ -55,19 +55,19 @@
       "type": "file",
       "file": "Class 9/English Medium/Social Science I/Chapters/Chapter 03 - Towards-a-Gender-Neutral-Society.md",
       "x": 0,
-      "y": 800,
-      "width": 420,
-      "height": 160,
+      "y": 2400,
+      "width": 1260,
+      "height": 480,
       "color": "5"
     },
     {
       "id": "n7",
       "type": "file",
       "file": "Class 9/English Medium/Social Science I/Exercises/03 - Towards-a-Gender-Neutral-Society Activities.md",
-      "x": 560,
-      "y": 800,
-      "width": 420,
-      "height": 160,
+      "x": 1680,
+      "y": 2400,
+      "width": 1260,
+      "height": 480,
       "color": "4"
     }
   ],
