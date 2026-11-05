@@ -1,0 +1,156 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "file",
+      "file": "Subject Overview Part 2.md",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "n2",
+      "type": "file",
+      "file": "Chapters/Chapter 01 - From-Land-of-Cholas-to-Delhi.md",
+      "x": 0,
+      "y": 200,
+      "width": 420,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "n3",
+      "type": "file",
+      "file": "Exercises/01 - From-Land-of-Cholas-to-Delhi Activities.md",
+      "x": 560,
+      "y": 200,
+      "width": 420,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "n4",
+      "type": "file",
+      "file": "Chapters/Chapter 02 - Extension-of-Democracy-through-Institutions.md",
+      "x": 0,
+      "y": 500,
+      "width": 420,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "n5",
+      "type": "file",
+      "file": "Exercises/02 - Extension-of-Democracy-through-Institutions Activities.md",
+      "x": 560,
+      "y": 500,
+      "width": 420,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "n6",
+      "type": "file",
+      "file": "Chapters/Chapter 03 - Towards-a-Gender-Neutral-Society.md",
+      "x": 0,
+      "y": 800,
+      "width": 420,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "n7",
+      "type": "file",
+      "file": "Exercises/03 - Towards-a-Gender-Neutral-Society Activities.md",
+      "x": 560,
+      "y": 800,
+      "width": 420,
+      "height": 160,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "fromSide": "bottom",
+      "toNode": "n2",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n5",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n1",
+      "fromSide": "bottom",
+      "toNode": "n3",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n3",
+      "fromSide": "right",
+      "toNode": "n6",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n2",
+      "fromSide": "bottom",
+      "toNode": "n3",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n1",
+      "fromSide": "bottom",
+      "toNode": "n4",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n4",
+      "fromSide": "right",
+      "toNode": "n7",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n3",
+      "fromSide": "bottom",
+      "toNode": "n4",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "cross1",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n3",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "cross2",
+      "fromNode": "n3",
+      "fromSide": "right",
+      "toNode": "n4",
+      "toSide": "left",
+      "color": "6"
+    }
+  ]
+}

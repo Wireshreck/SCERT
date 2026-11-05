@@ -1,0 +1,224 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "file",
+      "file": "Subject Overview Part 1.md",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "n2",
+      "type": "file",
+      "file": "Chapters/Chapter 01 - On-the-Roof-of-the-World.md",
+      "x": 0,
+      "y": 200,
+      "width": 420,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "n3",
+      "type": "file",
+      "file": "Exercises/01 - On-the-Roof-of-the-World Activities.md",
+      "x": 560,
+      "y": 200,
+      "width": 420,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "n4",
+      "type": "file",
+      "file": "Chapters/Chapter 02 - In-the-Expansive-Plain.md",
+      "x": 0,
+      "y": 500,
+      "width": 420,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "n5",
+      "type": "file",
+      "file": "Exercises/02 - In-the-Expansive-Plain Activities.md",
+      "x": 560,
+      "y": 500,
+      "width": 420,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "n6",
+      "type": "file",
+      "file": "Chapters/Chapter 03 - Plateau-where-the-Earths-History-Slumbers.md",
+      "x": 0,
+      "y": 800,
+      "width": 420,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "n7",
+      "type": "file",
+      "file": "Exercises/03 - Plateau-where-the-Earths-History-Slumbers Activities.md",
+      "x": 560,
+      "y": 800,
+      "width": 420,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "n8",
+      "type": "file",
+      "file": "Chapters/Chapter 04 - Human-Resources-for-National-Development.md",
+      "x": 0,
+      "y": 1100,
+      "width": 420,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "n9",
+      "type": "file",
+      "file": "Exercises/04 - Human-Resources-for-National-Development Activities.md",
+      "x": 560,
+      "y": 1100,
+      "width": 420,
+      "height": 160,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "fromSide": "bottom",
+      "toNode": "n2",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n6",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n1",
+      "fromSide": "bottom",
+      "toNode": "n3",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n3",
+      "fromSide": "right",
+      "toNode": "n7",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n2",
+      "fromSide": "bottom",
+      "toNode": "n3",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n1",
+      "fromSide": "bottom",
+      "toNode": "n4",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n4",
+      "fromSide": "right",
+      "toNode": "n8",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n3",
+      "fromSide": "bottom",
+      "toNode": "n4",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n1",
+      "fromSide": "bottom",
+      "toNode": "n5",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n5",
+      "fromSide": "right",
+      "toNode": "n9",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n4",
+      "fromSide": "bottom",
+      "toNode": "n5",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "cross1",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n3",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "cross2",
+      "fromNode": "n3",
+      "fromSide": "right",
+      "toNode": "n4",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "cross3",
+      "fromNode": "n4",
+      "fromSide": "right",
+      "toNode": "n5",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "cross4",
+      "fromNode": "n5",
+      "fromSide": "right",
+      "toNode": "n6",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "cross16",
+      "fromNode": "n3",
+      "fromSide": "bottom",
+      "toNode": "n5",
+      "toSide": "top",
+      "color": "6"
+    }
+  ]
+}

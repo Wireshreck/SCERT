@@ -1,0 +1,580 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "file",
+      "file": "Subject Overview Part 1.md",
+      "x": 0,
+      "y": 0,
+      "width": 360,
+      "height": 130,
+      "color": "5"
+    },
+    {
+      "id": "n2",
+      "type": "file",
+      "file": "Chapters/Chapter 01 - Pairs of Equations.md",
+      "x": 500,
+      "y": 0,
+      "width": 360,
+      "height": 130,
+      "color": "5"
+    },
+    {
+      "id": "n3",
+      "type": "file",
+      "file": "Chapters/Chapter 02 - New Numbers.md",
+      "x": 1000,
+      "y": 0,
+      "width": 360,
+      "height": 130,
+      "color": "5"
+    },
+    {
+      "id": "n4",
+      "type": "file",
+      "file": "Chapters/Chapter 03 - Parallel Lines.md",
+      "x": 0,
+      "y": 180,
+      "width": 360,
+      "height": 130,
+      "color": "5"
+    },
+    {
+      "id": "n5",
+      "type": "file",
+      "file": "Chapters/Chapter 04 - Multiplication Identities.md",
+      "x": 500,
+      "y": 180,
+      "width": 360,
+      "height": 130,
+      "color": "5"
+    },
+    {
+      "id": "n6",
+      "type": "file",
+      "file": "Chapters/Chapter 05 - Irrational Multiplication.md",
+      "x": 1000,
+      "y": 180,
+      "width": 360,
+      "height": 130,
+      "color": "5"
+    },
+    {
+      "id": "n7",
+      "type": "file",
+      "file": "Chapters/Chapter 06 - Similar Triangles.md",
+      "x": 0,
+      "y": 360,
+      "width": 360,
+      "height": 130,
+      "color": "5"
+    },
+    {
+      "id": "n8",
+      "type": "file",
+      "file": "Chapters/Chapter 07 - Negative Numbers.md",
+      "x": 500,
+      "y": 360,
+      "width": 360,
+      "height": 130,
+      "color": "5"
+    },
+    {
+      "id": "n9",
+      "type": "file",
+      "file": "Concepts/Solving a Pair of Linear Equations.md",
+      "x": 1000,
+      "y": 360,
+      "width": 360,
+      "height": 130,
+      "color": "1"
+    },
+    {
+      "id": "n10",
+      "type": "file",
+      "file": "Concepts/Irrational Numbers and Decimal Bounds.md",
+      "x": 0,
+      "y": 540,
+      "width": 360,
+      "height": 130,
+      "color": "1"
+    },
+    {
+      "id": "n11",
+      "type": "file",
+      "file": "Concepts/Parallel Division and the Side-Splitter Result.md",
+      "x": 500,
+      "y": 540,
+      "width": 360,
+      "height": 130,
+      "color": "1"
+    },
+    {
+      "id": "n12",
+      "type": "file",
+      "file": "Concepts/Triangle Centres and Euler Line.md",
+      "x": 1000,
+      "y": 540,
+      "width": 360,
+      "height": 130,
+      "color": "1"
+    },
+    {
+      "id": "n13",
+      "type": "file",
+      "file": "Concepts/Algebraic Multiplication Identities.md",
+      "x": 0,
+      "y": 720,
+      "width": 360,
+      "height": 130,
+      "color": "1"
+    },
+    {
+      "id": "n14",
+      "type": "file",
+      "file": "Concepts/Products and Areas with Square Roots.md",
+      "x": 500,
+      "y": 720,
+      "width": 360,
+      "height": 130,
+      "color": "1"
+    },
+    {
+      "id": "n15",
+      "type": "file",
+      "file": "Concepts/Similarity and Scale Factor.md",
+      "x": 1000,
+      "y": 720,
+      "width": 360,
+      "height": 130,
+      "color": "1"
+    },
+    {
+      "id": "n16",
+      "type": "file",
+      "file": "Concepts/Signed Arithmetic.md",
+      "x": 0,
+      "y": 900,
+      "width": 360,
+      "height": 130,
+      "color": "1"
+    },
+    {
+      "id": "n17",
+      "type": "file",
+      "file": "Formulas/Linear system by elimination.md",
+      "x": 500,
+      "y": 900,
+      "width": 360,
+      "height": 130,
+      "color": "3"
+    },
+    {
+      "id": "n18",
+      "type": "file",
+      "file": "Formulas/Square-root bounds.md",
+      "x": 1000,
+      "y": 900,
+      "width": 360,
+      "height": 130,
+      "color": "3"
+    },
+    {
+      "id": "n19",
+      "type": "file",
+      "file": "Formulas/Triangle side-splitter ratio.md",
+      "x": 0,
+      "y": 1080,
+      "width": 360,
+      "height": 130,
+      "color": "3"
+    },
+    {
+      "id": "n20",
+      "type": "file",
+      "file": "Formulas/Square of a sum and difference.md",
+      "x": 500,
+      "y": 1080,
+      "width": 360,
+      "height": 130,
+      "color": "3"
+    },
+    {
+      "id": "n21",
+      "type": "file",
+      "file": "Formulas/Product of sum and difference.md",
+      "x": 1000,
+      "y": 1080,
+      "width": 360,
+      "height": 130,
+      "color": "3"
+    },
+    {
+      "id": "n22",
+      "type": "file",
+      "file": "Formulas/Product of square roots.md",
+      "x": 0,
+      "y": 1260,
+      "width": 360,
+      "height": 130,
+      "color": "3"
+    },
+    {
+      "id": "n23",
+      "type": "file",
+      "file": "Formulas/Area scale in similar figures.md",
+      "x": 500,
+      "y": 1260,
+      "width": 360,
+      "height": 130,
+      "color": "3"
+    },
+    {
+      "id": "n24",
+      "type": "file",
+      "file": "Formulas/Signed operations.md",
+      "x": 1000,
+      "y": 1260,
+      "width": 360,
+      "height": 130,
+      "color": "3"
+    },
+    {
+      "id": "n25",
+      "type": "file",
+      "file": "Exercises/Pairs of Equations \u2014 Problems and Practice.md",
+      "x": 0,
+      "y": 1440,
+      "width": 360,
+      "height": 130,
+      "color": "4"
+    },
+    {
+      "id": "n26",
+      "type": "file",
+      "file": "Exercises/New Numbers \u2014 Construction and Approximation.md",
+      "x": 500,
+      "y": 1440,
+      "width": 360,
+      "height": 130,
+      "color": "4"
+    },
+    {
+      "id": "n27",
+      "type": "file",
+      "file": "Exercises/Parallel Lines \u2014 Proofs and Constructions.md",
+      "x": 1000,
+      "y": 1440,
+      "width": 360,
+      "height": 130,
+      "color": "4"
+    },
+    {
+      "id": "n28",
+      "type": "file",
+      "file": "Exercises/Multiplication Identities \u2014 Applications.md",
+      "x": 0,
+      "y": 1620,
+      "width": 360,
+      "height": 130,
+      "color": "4"
+    },
+    {
+      "id": "n29",
+      "type": "file",
+      "file": "Exercises/Irrational Multiplication \u2014 Length and Area.md",
+      "x": 500,
+      "y": 1620,
+      "width": 360,
+      "height": 130,
+      "color": "4"
+    },
+    {
+      "id": "n30",
+      "type": "file",
+      "file": "Exercises/Similar Triangles \u2014 Ratios and Geometry.md",
+      "x": 1000,
+      "y": 1620,
+      "width": 360,
+      "height": 130,
+      "color": "4"
+    },
+    {
+      "id": "n31",
+      "type": "file",
+      "file": "Exercises/Negative Numbers \u2014 Operations and Equations.md",
+      "x": 0,
+      "y": 1800,
+      "width": 360,
+      "height": 130,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n2",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n3",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n4",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n5",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n6",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n7",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n8",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n9",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n3",
+      "fromSide": "right",
+      "toNode": "n10",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n4",
+      "fromSide": "right",
+      "toNode": "n11",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n4",
+      "fromSide": "right",
+      "toNode": "n12",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n5",
+      "fromSide": "right",
+      "toNode": "n13",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n6",
+      "fromSide": "right",
+      "toNode": "n14",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n7",
+      "fromSide": "right",
+      "toNode": "n15",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e15",
+      "fromNode": "n8",
+      "fromSide": "right",
+      "toNode": "n16",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e16",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n17",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e17",
+      "fromNode": "n3",
+      "fromSide": "right",
+      "toNode": "n18",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e18",
+      "fromNode": "n4",
+      "fromSide": "right",
+      "toNode": "n19",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e19",
+      "fromNode": "n5",
+      "fromSide": "right",
+      "toNode": "n20",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e20",
+      "fromNode": "n5",
+      "fromSide": "right",
+      "toNode": "n21",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e21",
+      "fromNode": "n6",
+      "fromSide": "right",
+      "toNode": "n22",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e22",
+      "fromNode": "n7",
+      "fromSide": "right",
+      "toNode": "n23",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e23",
+      "fromNode": "n8",
+      "fromSide": "right",
+      "toNode": "n24",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e24",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n25",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e25",
+      "fromNode": "n3",
+      "fromSide": "right",
+      "toNode": "n26",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e26",
+      "fromNode": "n4",
+      "fromSide": "right",
+      "toNode": "n27",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e27",
+      "fromNode": "n5",
+      "fromSide": "right",
+      "toNode": "n28",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e28",
+      "fromNode": "n6",
+      "fromSide": "right",
+      "toNode": "n29",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e29",
+      "fromNode": "n7",
+      "fromSide": "right",
+      "toNode": "n30",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e30",
+      "fromNode": "n8",
+      "fromSide": "right",
+      "toNode": "n31",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "e31",
+      "fromNode": "n11",
+      "fromSide": "right",
+      "toNode": "n15",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e32",
+      "fromNode": "n14",
+      "fromSide": "right",
+      "toNode": "n13",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e33",
+      "fromNode": "n16",
+      "fromSide": "right",
+      "toNode": "n9",
+      "toSide": "left",
+      "color": "6"
+    }
+  ]
+}

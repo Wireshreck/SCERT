@@ -1,0 +1,722 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "type": "file",
+      "file": "Subject Overview.md",
+      "x": 0,
+      "y": 200,
+      "width": 390,
+      "height": 220,
+      "color": "#457B9D"
+    },
+    {
+      "id": "n2",
+      "type": "file",
+      "file": "Chapters/06 - Intelligent Machines.md",
+      "x": 540,
+      "y": 200,
+      "width": 390,
+      "height": 220,
+      "color": "#457B9D"
+    },
+    {
+      "id": "n3",
+      "type": "file",
+      "file": "Concepts/AI Models and Pattern Recognition.md",
+      "x": 1080,
+      "y": 0,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n4",
+      "type": "file",
+      "file": "Concepts/Natural Language Processing.md",
+      "x": 1080,
+      "y": 220,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n5",
+      "type": "file",
+      "file": "Concepts/Prompt Engineering.md",
+      "x": 1080,
+      "y": 440,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n6",
+      "type": "file",
+      "file": "Concepts/AI Image Generation.md",
+      "x": 1080,
+      "y": 660,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n7",
+      "type": "file",
+      "file": "Concepts/Responsible AI and AI Agents.md",
+      "x": 1080,
+      "y": 880,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n8",
+      "type": "file",
+      "file": "Exercises/Chapter 06 - Intelligent Machines.md",
+      "x": 1620,
+      "y": 220,
+      "width": 390,
+      "height": 220,
+      "color": "#2A9D8F"
+    },
+    {
+      "id": "n9",
+      "type": "file",
+      "file": "Chapters/07 - Laboratory within the Computer.md",
+      "x": 540,
+      "y": 1100,
+      "width": 390,
+      "height": 220,
+      "color": "#457B9D"
+    },
+    {
+      "id": "n10",
+      "type": "file",
+      "file": "Concepts/GeoGebra Constructions and Proportionality.md",
+      "x": 1080,
+      "y": 1100,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n11",
+      "type": "file",
+      "file": "Concepts/Kalzium and Periodic Table Exploration.md",
+      "x": 1080,
+      "y": 1320,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n12",
+      "type": "file",
+      "file": "Concepts/Virtual Laboratories and Light Refraction.md",
+      "x": 1080,
+      "y": 1540,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n13",
+      "type": "file",
+      "file": "Exercises/Chapter 07 - Laboratory within the Computer.md",
+      "x": 1620,
+      "y": 1100,
+      "width": 390,
+      "height": 220,
+      "color": "#2A9D8F"
+    },
+    {
+      "id": "n14",
+      "type": "file",
+      "file": "Chapters/08 - The Infinite Scope of Presentation.md",
+      "x": 540,
+      "y": 1980,
+      "width": 390,
+      "height": 220,
+      "color": "#457B9D"
+    },
+    {
+      "id": "n15",
+      "type": "file",
+      "file": "Concepts/Master Slides and Consistent Presentation Design.md",
+      "x": 1080,
+      "y": 1920,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n16",
+      "type": "file",
+      "file": "Concepts/Slide Design, Animation and Media.md",
+      "x": 1080,
+      "y": 2140,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n17",
+      "type": "file",
+      "file": "Concepts/Charts and Infographics.md",
+      "x": 1080,
+      "y": 2360,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n18",
+      "type": "file",
+      "file": "Concepts/Presentation Skills and Online Tools.md",
+      "x": 1080,
+      "y": 2580,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n19",
+      "type": "file",
+      "file": "Exercises/Chapter 08 - The Infinite Scope of Presentation.md",
+      "x": 1620,
+      "y": 1980,
+      "width": 390,
+      "height": 220,
+      "color": "#2A9D8F"
+    },
+    {
+      "id": "n20",
+      "type": "file",
+      "file": "Chapters/09 - Creating a Webpage.md",
+      "x": 540,
+      "y": 2800,
+      "width": 390,
+      "height": 220,
+      "color": "#457B9D"
+    },
+    {
+      "id": "n21",
+      "type": "file",
+      "file": "Concepts/Webpages, URLs and Browsers.md",
+      "x": 1080,
+      "y": 2800,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n22",
+      "type": "file",
+      "file": "Concepts/HTML Structure and Elements.md",
+      "x": 1080,
+      "y": 3020,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n23",
+      "type": "file",
+      "file": "Concepts/HTML Attributes, Images and Presentation.md",
+      "x": 1080,
+      "y": 3240,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n24",
+      "type": "file",
+      "file": "Concepts/HTML Tables and Embedded Video.md",
+      "x": 1080,
+      "y": 3460,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n25",
+      "type": "file",
+      "file": "Exercises/Chapter 09 - Creating a Webpage.md",
+      "x": 1620,
+      "y": 2800,
+      "width": 390,
+      "height": 220,
+      "color": "#2A9D8F"
+    },
+    {
+      "id": "n26",
+      "type": "file",
+      "file": "Chapters/10 - A Network of Computing Devices.md",
+      "x": 540,
+      "y": 3700,
+      "width": 390,
+      "height": 220,
+      "color": "#457B9D"
+    },
+    {
+      "id": "n27",
+      "type": "file",
+      "file": "Concepts/Network Media and Devices.md",
+      "x": 1080,
+      "y": 3700,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n28",
+      "type": "file",
+      "file": "Concepts/Network Types and Resource Sharing.md",
+      "x": 1080,
+      "y": 3920,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n29",
+      "type": "file",
+      "file": "Concepts/MAC and IP Addressing.md",
+      "x": 1080,
+      "y": 4140,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n30",
+      "type": "file",
+      "file": "Concepts/Network Protocols and DHCP.md",
+      "x": 1080,
+      "y": 4360,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n31",
+      "type": "file",
+      "file": "Concepts/Network Utilities and Remote Access.md",
+      "x": 1080,
+      "y": 4580,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n32",
+      "type": "file",
+      "file": "Concepts/Internet Servers, Domain Names and IoT.md",
+      "x": 1080,
+      "y": 4800,
+      "width": 350,
+      "height": 180,
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "n33",
+      "type": "file",
+      "file": "Exercises/Chapter 10 - A Network of Computing Devices.md",
+      "x": 1620,
+      "y": 3700,
+      "width": 390,
+      "height": 220,
+      "color": "#2A9D8F"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n2",
+      "toSide": "left",
+      "label": "Part II · Chapter 6"
+    },
+    {
+      "id": "e2",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n3",
+      "toSide": "left"
+    },
+    {
+      "id": "e3",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n4",
+      "toSide": "left"
+    },
+    {
+      "id": "e4",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n5",
+      "toSide": "left"
+    },
+    {
+      "id": "e5",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n6",
+      "toSide": "left"
+    },
+    {
+      "id": "e6",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n7",
+      "toSide": "left"
+    },
+    {
+      "id": "e7",
+      "fromNode": "n2",
+      "fromSide": "right",
+      "toNode": "n8",
+      "toSide": "left",
+      "label": "activities"
+    },
+    {
+      "id": "e8",
+      "fromNode": "n3",
+      "fromSide": "right",
+      "toNode": "n4",
+      "toSide": "left",
+      "label": "models underpin NLP"
+    },
+    {
+      "id": "e9",
+      "fromNode": "n4",
+      "fromSide": "right",
+      "toNode": "n5",
+      "toSide": "left",
+      "label": "guided by prompts"
+    },
+    {
+      "id": "e10",
+      "fromNode": "n5",
+      "fromSide": "right",
+      "toNode": "n6",
+      "toSide": "left",
+      "label": "image prompts"
+    },
+    {
+      "id": "e11",
+      "fromNode": "n5",
+      "fromSide": "right",
+      "toNode": "n7",
+      "toSide": "left",
+      "label": "verify output"
+    },
+    {
+      "id": "e12",
+      "fromNode": "n7",
+      "fromSide": "right",
+      "toNode": "n2",
+      "toSide": "left",
+      "label": "responsible use"
+    },
+    {
+      "id": "e13",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n9",
+      "toSide": "left",
+      "label": "Part II · Chapter 7"
+    },
+    {
+      "id": "e14",
+      "fromNode": "n9",
+      "fromSide": "right",
+      "toNode": "n10",
+      "toSide": "left"
+    },
+    {
+      "id": "e15",
+      "fromNode": "n9",
+      "fromSide": "right",
+      "toNode": "n11",
+      "toSide": "left"
+    },
+    {
+      "id": "e16",
+      "fromNode": "n9",
+      "fromSide": "right",
+      "toNode": "n12",
+      "toSide": "left"
+    },
+    {
+      "id": "e17",
+      "fromNode": "n9",
+      "fromSide": "right",
+      "toNode": "n13",
+      "toSide": "left",
+      "label": "activities"
+    },
+    {
+      "id": "e18",
+      "fromNode": "n10",
+      "fromSide": "right",
+      "toNode": "n11",
+      "toSide": "left",
+      "label": "interactive learning"
+    },
+    {
+      "id": "e19",
+      "fromNode": "n11",
+      "fromSide": "right",
+      "toNode": "n12",
+      "toSide": "left",
+      "label": "models and simulations"
+    },
+    {
+      "id": "e20",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n14",
+      "toSide": "left",
+      "label": "Part II · Chapter 8"
+    },
+    {
+      "id": "e21",
+      "fromNode": "n14",
+      "fromSide": "right",
+      "toNode": "n15",
+      "toSide": "left"
+    },
+    {
+      "id": "e22",
+      "fromNode": "n14",
+      "fromSide": "right",
+      "toNode": "n16",
+      "toSide": "left"
+    },
+    {
+      "id": "e23",
+      "fromNode": "n14",
+      "fromSide": "right",
+      "toNode": "n17",
+      "toSide": "left"
+    },
+    {
+      "id": "e24",
+      "fromNode": "n14",
+      "fromSide": "right",
+      "toNode": "n18",
+      "toSide": "left"
+    },
+    {
+      "id": "e25",
+      "fromNode": "n14",
+      "fromSide": "right",
+      "toNode": "n19",
+      "toSide": "left",
+      "label": "activities"
+    },
+    {
+      "id": "e26",
+      "fromNode": "n15",
+      "fromSide": "right",
+      "toNode": "n16",
+      "toSide": "left",
+      "label": "consistent visual system"
+    },
+    {
+      "id": "e27",
+      "fromNode": "n16",
+      "fromSide": "right",
+      "toNode": "n17",
+      "toSide": "left",
+      "label": "visual communication"
+    },
+    {
+      "id": "e28",
+      "fromNode": "n17",
+      "fromSide": "right",
+      "toNode": "n18",
+      "toSide": "left",
+      "label": "audience communication"
+    },
+    {
+      "id": "e29",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n20",
+      "toSide": "left",
+      "label": "Part II · Chapter 9"
+    },
+    {
+      "id": "e30",
+      "fromNode": "n20",
+      "fromSide": "right",
+      "toNode": "n21",
+      "toSide": "left"
+    },
+    {
+      "id": "e31",
+      "fromNode": "n20",
+      "fromSide": "right",
+      "toNode": "n22",
+      "toSide": "left"
+    },
+    {
+      "id": "e32",
+      "fromNode": "n20",
+      "fromSide": "right",
+      "toNode": "n23",
+      "toSide": "left"
+    },
+    {
+      "id": "e33",
+      "fromNode": "n20",
+      "fromSide": "right",
+      "toNode": "n24",
+      "toSide": "left"
+    },
+    {
+      "id": "e34",
+      "fromNode": "n20",
+      "fromSide": "right",
+      "toNode": "n25",
+      "toSide": "left",
+      "label": "activities"
+    },
+    {
+      "id": "e35",
+      "fromNode": "n21",
+      "fromSide": "right",
+      "toNode": "n22",
+      "toSide": "left",
+      "label": "request and render"
+    },
+    {
+      "id": "e36",
+      "fromNode": "n22",
+      "fromSide": "right",
+      "toNode": "n23",
+      "toSide": "left",
+      "label": "elements and attributes"
+    },
+    {
+      "id": "e37",
+      "fromNode": "n23",
+      "fromSide": "right",
+      "toNode": "n24",
+      "toSide": "left",
+      "label": "media and layout"
+    },
+    {
+      "id": "e38",
+      "fromNode": "n1",
+      "fromSide": "right",
+      "toNode": "n26",
+      "toSide": "left",
+      "label": "Part II · Chapter 10"
+    },
+    {
+      "id": "e39",
+      "fromNode": "n26",
+      "fromSide": "right",
+      "toNode": "n27",
+      "toSide": "left"
+    },
+    {
+      "id": "e40",
+      "fromNode": "n26",
+      "fromSide": "right",
+      "toNode": "n28",
+      "toSide": "left"
+    },
+    {
+      "id": "e41",
+      "fromNode": "n26",
+      "fromSide": "right",
+      "toNode": "n29",
+      "toSide": "left"
+    },
+    {
+      "id": "e42",
+      "fromNode": "n26",
+      "fromSide": "right",
+      "toNode": "n30",
+      "toSide": "left"
+    },
+    {
+      "id": "e43",
+      "fromNode": "n26",
+      "fromSide": "right",
+      "toNode": "n31",
+      "toSide": "left"
+    },
+    {
+      "id": "e44",
+      "fromNode": "n26",
+      "fromSide": "right",
+      "toNode": "n32",
+      "toSide": "left"
+    },
+    {
+      "id": "e45",
+      "fromNode": "n26",
+      "fromSide": "right",
+      "toNode": "n33",
+      "toSide": "left",
+      "label": "activities"
+    },
+    {
+      "id": "e46",
+      "fromNode": "n27",
+      "fromSide": "right",
+      "toNode": "n28",
+      "toSide": "left",
+      "label": "infrastructure enables sharing"
+    },
+    {
+      "id": "e47",
+      "fromNode": "n28",
+      "fromSide": "right",
+      "toNode": "n29",
+      "toSide": "left",
+      "label": "devices need addresses"
+    },
+    {
+      "id": "e48",
+      "fromNode": "n29",
+      "fromSide": "right",
+      "toNode": "n30",
+      "toSide": "left",
+      "label": "protocols assign and use addresses"
+    },
+    {
+      "id": "e49",
+      "fromNode": "n30",
+      "fromSide": "right",
+      "toNode": "n31",
+      "toSide": "left",
+      "label": "network services"
+    },
+    {
+      "id": "e50",
+      "fromNode": "n31",
+      "fromSide": "right",
+      "toNode": "n32",
+      "toSide": "left",
+      "label": "local to global networks"
+    },
+    {
+      "id": "e51",
+      "fromNode": "n32",
+      "fromSide": "right",
+      "toNode": "n21",
+      "toSide": "left",
+      "label": "domain names identify web servers"
+    }
+  ]
+}
