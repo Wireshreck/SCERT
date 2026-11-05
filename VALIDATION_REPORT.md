@@ -26,7 +26,7 @@ Every page of all 19 current PDFs was visually reviewed from the page renders, i
 
 ## Validation results
 
-`python scripts/validate_collection.py` completed with **20 PDFs / 1,803 pages, 454 Markdown files, 19 Canvases, 421 Canvas nodes and 614 edges; zero errors and zero warnings**. The validator checked PDF opening and page counts, required Markdown frontmatter, wiki-link resolution, Canvas JSON, file-node targets, edge endpoints and node overlap. All 19 current PDF page ranges are covered by the visual review log; missing pages: **0**. Broken internal links: **0**.
+`python scripts/validate_collection.py` completed with **20 PDFs / 1,803 pages, 454 Markdown files, 19 Canvases, 421 Canvas nodes and 614 edges; zero errors and zero warnings**. The validator checked PDF opening and page counts, required Markdown frontmatter, wiki-link resolution, Canvas JSON, vault-root file-node targets, edge endpoints and node overlap. After the first report, an Obsidian review found Canvas file paths had been written relative to their folders. All 421 node paths were corrected to vault-root paths (including one incorrectly rooted Chemistry definition path), then checked again in Obsidian; the Chemistry Part I cards now resolve without “New note” or “Swap file” placeholders. All 19 current PDF page ranges are covered by the visual review log; missing pages: **0**. Broken internal links: **0**.
 
 Validation scripts and build utilities are in `scripts/`. Structural validation is reproducible; it does not independently judge the pedagogical quality of every generated explanation. Page-to-note coverage is cross-referenced against the visual reviews and chapter lists in the progress log.
 

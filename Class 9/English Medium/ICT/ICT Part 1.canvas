@@ -3,7 +3,7 @@
     {
       "id": "overview",
       "type": "file",
-      "file": "Subject Overview.md",
+      "file": "Class 9/English Medium/ICT/Subject Overview.md",
       "x": 0,
       "y": 240,
       "width": 340,
@@ -13,7 +13,7 @@
     {
       "id": "chapter1",
       "type": "file",
-      "file": "Chapters/01 - Poster Images.md",
+      "file": "Class 9/English Medium/ICT/Chapters/01 - Poster Images.md",
       "x": 460,
       "y": 240,
       "width": 340,
@@ -23,7 +23,7 @@
     {
       "id": "layers",
       "type": "file",
-      "file": "Concepts/Layers and Non-destructive Composition.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Layers and Non-destructive Composition.md",
       "x": 930,
       "y": 0,
       "width": 360,
@@ -33,7 +33,7 @@
     {
       "id": "rgba",
       "type": "file",
-      "file": "Concepts/Selections, Transparency and RGBA.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Selections, Transparency and RGBA.md",
       "x": 930,
       "y": 250,
       "width": 360,
@@ -43,7 +43,7 @@
     {
       "id": "layout",
       "type": "file",
-      "file": "Concepts/Poster Layout and Image Effects.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Poster Layout and Image Effects.md",
       "x": 930,
       "y": 530,
       "width": 360,
@@ -53,7 +53,7 @@
     {
       "id": "formats",
       "type": "file",
-      "file": "Concepts/Native Project Files and Export.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Native Project Files and Export.md",
       "x": 930,
       "y": 800,
       "width": 360,
@@ -63,7 +63,7 @@
     {
       "id": "exercises",
       "type": "file",
-      "file": "Exercises/Chapter 01 - Poster Images.md",
+      "file": "Class 9/English Medium/ICT/Exercises/Chapter 01 - Poster Images.md",
       "x": 460,
       "y": 600,
       "width": 340,
@@ -73,7 +73,7 @@
     {
       "id": "chapter2",
       "type": "file",
-      "file": "Chapters/02 - Styles to Get it All in Style.md",
+      "file": "Class 9/English Medium/ICT/Chapters/02 - Styles to Get it All in Style.md",
       "x": 460,
       "y": 1120,
       "width": 370,
@@ -83,7 +83,7 @@
     {
       "id": "styles",
       "type": "file",
-      "file": "Concepts/Writer Styles and Document Consistency.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Writer Styles and Document Consistency.md",
       "x": 980,
       "y": 1040,
       "width": 380,
@@ -93,7 +93,7 @@
     {
       "id": "notes",
       "type": "file",
-      "file": "Concepts/Footnotes and Endnotes.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Footnotes and Endnotes.md",
       "x": 1460,
       "y": 1040,
       "width": 360,
@@ -103,7 +103,7 @@
     {
       "id": "toc",
       "type": "file",
-      "file": "Concepts/Automatic Tables of Contents.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Automatic Tables of Contents.md",
       "x": 980,
       "y": 1340,
       "width": 380,
@@ -113,7 +113,7 @@
     {
       "id": "ocr",
       "type": "file",
-      "file": "Concepts/OCR and Desktop Publishing.md",
+      "file": "Class 9/English Medium/ICT/Concepts/OCR and Desktop Publishing.md",
       "x": 1460,
       "y": 1320,
       "width": 360,
@@ -123,7 +123,7 @@
     {
       "id": "exercises2",
       "type": "file",
-      "file": "Exercises/Chapter 02 - Styles to Get it All in Style.md",
+      "file": "Class 9/English Medium/ICT/Exercises/Chapter 02 - Styles to Get it All in Style.md",
       "x": 460,
       "y": 1500,
       "width": 370,
@@ -133,7 +133,7 @@
     {
       "id": "chapter3",
       "type": "file",
-      "file": "Chapters/03 - Let’s Develop Software.md",
+      "file": "Class 9/English Medium/ICT/Chapters/03 - Let’s Develop Software.md",
       "x": 460,
       "y": 1980,
       "width": 370,
@@ -143,7 +143,7 @@
     {
       "id": "sprites",
       "type": "file",
-      "file": "Concepts/Interface, Sprites and Pivot Points.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Interface, Sprites and Pivot Points.md",
       "x": 980,
       "y": 1910,
       "width": 380,
@@ -153,7 +153,7 @@
     {
       "id": "time",
       "type": "file",
-      "file": "Concepts/Time, Variables and Event-driven Behaviour.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Time, Variables and Event-driven Behaviour.md",
       "x": 1460,
       "y": 1910,
       "width": 380,
@@ -163,7 +163,7 @@
     {
       "id": "coding",
       "type": "file",
-      "file": "Concepts/Block Coding and Text-based Programming.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Block Coding and Text-based Programming.md",
       "x": 980,
       "y": 2200,
       "width": 380,
@@ -173,7 +173,7 @@
     {
       "id": "formula",
       "type": "file",
-      "file": "Formulas/Clock Hand Angular Steps.md",
+      "file": "Class 9/English Medium/ICT/Formulas/Clock Hand Angular Steps.md",
       "x": 1460,
       "y": 2200,
       "width": 380,
@@ -183,7 +183,7 @@
     {
       "id": "exercises3",
       "type": "file",
-      "file": "Exercises/Chapter 03 - Let’s Develop Software.md",
+      "file": "Class 9/English Medium/ICT/Exercises/Chapter 03 - Let’s Develop Software.md",
       "x": 460,
       "y": 2350,
       "width": 370,
@@ -193,7 +193,7 @@
     {
       "id": "chapter4",
       "type": "file",
-      "file": "Chapters/04 - Data Analysis Made Easy.md",
+      "file": "Class 9/English Medium/ICT/Chapters/04 - Data Analysis Made Easy.md",
       "x": 460,
       "y": 2840,
       "width": 390,
@@ -203,7 +203,7 @@
     {
       "id": "data",
       "type": "file",
-      "file": "Concepts/Data, Information and Spreadsheet Workbooks.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Data, Information and Spreadsheet Workbooks.md",
       "x": 990,
       "y": 2780,
       "width": 390,
@@ -213,7 +213,7 @@
     {
       "id": "density",
       "type": "file",
-      "file": "Formulas/Population Density.md",
+      "file": "Class 9/English Medium/ICT/Formulas/Population Density.md",
       "x": 1480,
       "y": 2780,
       "width": 360,
@@ -223,7 +223,7 @@
     {
       "id": "lookup",
       "type": "file",
-      "file": "Concepts/Categorization with LOOKUP.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Categorization with LOOKUP.md",
       "x": 990,
       "y": 3070,
       "width": 390,
@@ -233,7 +233,7 @@
     {
       "id": "countfilter",
       "type": "file",
-      "file": "Concepts/Counting and Filtering Spreadsheet Data.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Counting and Filtering Spreadsheet Data.md",
       "x": 1480,
       "y": 3070,
       "width": 390,
@@ -243,7 +243,7 @@
     {
       "id": "protect",
       "type": "file",
-      "file": "Concepts/Protecting Spreadsheet Data.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Protecting Spreadsheet Data.md",
       "x": 990,
       "y": 3370,
       "width": 390,
@@ -253,7 +253,7 @@
     {
       "id": "exercises4",
       "type": "file",
-      "file": "Exercises/Chapter 04 - Data Analysis Made Easy.md",
+      "file": "Class 9/English Medium/ICT/Exercises/Chapter 04 - Data Analysis Made Easy.md",
       "x": 460,
       "y": 3310,
       "width": 390,
@@ -263,7 +263,7 @@
     {
       "id": "chapter5",
       "type": "file",
-      "file": "Chapters/05 - The Web of Goodness.md",
+      "file": "Class 9/English Medium/ICT/Chapters/05 - The Web of Goodness.md",
       "x": 460,
       "y": 3900,
       "width": 400,
@@ -273,7 +273,7 @@
     {
       "id": "wiki",
       "type": "file",
-      "file": "Concepts/Wikis and Collaborative Knowledge.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Wikis and Collaborative Knowledge.md",
       "x": 1000,
       "y": 3830,
       "width": 390,
@@ -283,7 +283,7 @@
     {
       "id": "emailwiki",
       "type": "file",
-      "file": "Concepts/Email and SchoolWiki Publishing.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Email and SchoolWiki Publishing.md",
       "x": 1490,
       "y": 3830,
       "width": 390,
@@ -293,7 +293,7 @@
     {
       "id": "social",
       "type": "file",
-      "file": "Concepts/Social Media and Responsible Participation.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Social Media and Responsible Participation.md",
       "x": 1000,
       "y": 4140,
       "width": 390,
@@ -303,7 +303,7 @@
     {
       "id": "transactions",
       "type": "file",
-      "file": "Concepts/Online Transactions and Two-factor Authentication.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Online Transactions and Two-factor Authentication.md",
       "x": 1490,
       "y": 4140,
       "width": 390,
@@ -313,7 +313,7 @@
     {
       "id": "samagra",
       "type": "file",
-      "file": "Concepts/SAMAGRA Plus Learning Room.md",
+      "file": "Class 9/English Medium/ICT/Concepts/SAMAGRA Plus Learning Room.md",
       "x": 1000,
       "y": 4440,
       "width": 390,
@@ -323,7 +323,7 @@
     {
       "id": "cyber",
       "type": "file",
-      "file": "Concepts/Cybercrime and Digital Safety.md",
+      "file": "Class 9/English Medium/ICT/Concepts/Cybercrime and Digital Safety.md",
       "x": 1490,
       "y": 4440,
       "width": 390,
@@ -333,7 +333,7 @@
     {
       "id": "exercises5",
       "type": "file",
-      "file": "Exercises/Chapter 05 - The Web of Goodness.md",
+      "file": "Class 9/English Medium/ICT/Exercises/Chapter 05 - The Web of Goodness.md",
       "x": 460,
       "y": 4410,
       "width": 400,

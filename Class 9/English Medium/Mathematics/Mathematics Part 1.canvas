@@ -3,7 +3,7 @@
     {
       "id": "n1",
       "type": "file",
-      "file": "Subject Overview Part 1.md",
+      "file": "Class 9/English Medium/Mathematics/Subject Overview Part 1.md",
       "x": 0,
       "y": 0,
       "width": 360,
@@ -13,7 +13,7 @@
     {
       "id": "n2",
       "type": "file",
-      "file": "Chapters/Chapter 01 - Pairs of Equations.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 01 - Pairs of Equations.md",
       "x": 500,
       "y": 0,
       "width": 360,
@@ -23,7 +23,7 @@
     {
       "id": "n3",
       "type": "file",
-      "file": "Chapters/Chapter 02 - New Numbers.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 02 - New Numbers.md",
       "x": 1000,
       "y": 0,
       "width": 360,
@@ -33,7 +33,7 @@
     {
       "id": "n4",
       "type": "file",
-      "file": "Chapters/Chapter 03 - Parallel Lines.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 03 - Parallel Lines.md",
       "x": 0,
       "y": 180,
       "width": 360,
@@ -43,7 +43,7 @@
     {
       "id": "n5",
       "type": "file",
-      "file": "Chapters/Chapter 04 - Multiplication Identities.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 04 - Multiplication Identities.md",
       "x": 500,
       "y": 180,
       "width": 360,
@@ -53,7 +53,7 @@
     {
       "id": "n6",
       "type": "file",
-      "file": "Chapters/Chapter 05 - Irrational Multiplication.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 05 - Irrational Multiplication.md",
       "x": 1000,
       "y": 180,
       "width": 360,
@@ -63,7 +63,7 @@
     {
       "id": "n7",
       "type": "file",
-      "file": "Chapters/Chapter 06 - Similar Triangles.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 06 - Similar Triangles.md",
       "x": 0,
       "y": 360,
       "width": 360,
@@ -73,7 +73,7 @@
     {
       "id": "n8",
       "type": "file",
-      "file": "Chapters/Chapter 07 - Negative Numbers.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 07 - Negative Numbers.md",
       "x": 500,
       "y": 360,
       "width": 360,
@@ -83,7 +83,7 @@
     {
       "id": "n9",
       "type": "file",
-      "file": "Concepts/Solving a Pair of Linear Equations.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Solving a Pair of Linear Equations.md",
       "x": 1000,
       "y": 360,
       "width": 360,
@@ -93,7 +93,7 @@
     {
       "id": "n10",
       "type": "file",
-      "file": "Concepts/Irrational Numbers and Decimal Bounds.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Irrational Numbers and Decimal Bounds.md",
       "x": 0,
       "y": 540,
       "width": 360,
@@ -103,7 +103,7 @@
     {
       "id": "n11",
       "type": "file",
-      "file": "Concepts/Parallel Division and the Side-Splitter Result.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Parallel Division and the Side-Splitter Result.md",
       "x": 500,
       "y": 540,
       "width": 360,
@@ -113,7 +113,7 @@
     {
       "id": "n12",
       "type": "file",
-      "file": "Concepts/Triangle Centres and Euler Line.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Triangle Centres and Euler Line.md",
       "x": 1000,
       "y": 540,
       "width": 360,
@@ -123,7 +123,7 @@
     {
       "id": "n13",
       "type": "file",
-      "file": "Concepts/Algebraic Multiplication Identities.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Algebraic Multiplication Identities.md",
       "x": 0,
       "y": 720,
       "width": 360,
@@ -133,7 +133,7 @@
     {
       "id": "n14",
       "type": "file",
-      "file": "Concepts/Products and Areas with Square Roots.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Products and Areas with Square Roots.md",
       "x": 500,
       "y": 720,
       "width": 360,
@@ -143,7 +143,7 @@
     {
       "id": "n15",
       "type": "file",
-      "file": "Concepts/Similarity and Scale Factor.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Similarity and Scale Factor.md",
       "x": 1000,
       "y": 720,
       "width": 360,
@@ -153,7 +153,7 @@
     {
       "id": "n16",
       "type": "file",
-      "file": "Concepts/Signed Arithmetic.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Signed Arithmetic.md",
       "x": 0,
       "y": 900,
       "width": 360,
@@ -163,7 +163,7 @@
     {
       "id": "n17",
       "type": "file",
-      "file": "Formulas/Linear system by elimination.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Linear system by elimination.md",
       "x": 500,
       "y": 900,
       "width": 360,
@@ -173,7 +173,7 @@
     {
       "id": "n18",
       "type": "file",
-      "file": "Formulas/Square-root bounds.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Square-root bounds.md",
       "x": 1000,
       "y": 900,
       "width": 360,
@@ -183,7 +183,7 @@
     {
       "id": "n19",
       "type": "file",
-      "file": "Formulas/Triangle side-splitter ratio.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Triangle side-splitter ratio.md",
       "x": 0,
       "y": 1080,
       "width": 360,
@@ -193,7 +193,7 @@
     {
       "id": "n20",
       "type": "file",
-      "file": "Formulas/Square of a sum and difference.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Square of a sum and difference.md",
       "x": 500,
       "y": 1080,
       "width": 360,
@@ -203,7 +203,7 @@
     {
       "id": "n21",
       "type": "file",
-      "file": "Formulas/Product of sum and difference.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Product of sum and difference.md",
       "x": 1000,
       "y": 1080,
       "width": 360,
@@ -213,7 +213,7 @@
     {
       "id": "n22",
       "type": "file",
-      "file": "Formulas/Product of square roots.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Product of square roots.md",
       "x": 0,
       "y": 1260,
       "width": 360,
@@ -223,7 +223,7 @@
     {
       "id": "n23",
       "type": "file",
-      "file": "Formulas/Area scale in similar figures.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Area scale in similar figures.md",
       "x": 500,
       "y": 1260,
       "width": 360,
@@ -233,7 +233,7 @@
     {
       "id": "n24",
       "type": "file",
-      "file": "Formulas/Signed operations.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Signed operations.md",
       "x": 1000,
       "y": 1260,
       "width": 360,
@@ -243,7 +243,7 @@
     {
       "id": "n25",
       "type": "file",
-      "file": "Exercises/Pairs of Equations \u2014 Problems and Practice.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Pairs of Equations — Problems and Practice.md",
       "x": 0,
       "y": 1440,
       "width": 360,
@@ -253,7 +253,7 @@
     {
       "id": "n26",
       "type": "file",
-      "file": "Exercises/New Numbers \u2014 Construction and Approximation.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/New Numbers — Construction and Approximation.md",
       "x": 500,
       "y": 1440,
       "width": 360,
@@ -263,7 +263,7 @@
     {
       "id": "n27",
       "type": "file",
-      "file": "Exercises/Parallel Lines \u2014 Proofs and Constructions.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Parallel Lines — Proofs and Constructions.md",
       "x": 1000,
       "y": 1440,
       "width": 360,
@@ -273,7 +273,7 @@
     {
       "id": "n28",
       "type": "file",
-      "file": "Exercises/Multiplication Identities \u2014 Applications.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Multiplication Identities — Applications.md",
       "x": 0,
       "y": 1620,
       "width": 360,
@@ -283,7 +283,7 @@
     {
       "id": "n29",
       "type": "file",
-      "file": "Exercises/Irrational Multiplication \u2014 Length and Area.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Irrational Multiplication — Length and Area.md",
       "x": 500,
       "y": 1620,
       "width": 360,
@@ -293,7 +293,7 @@
     {
       "id": "n30",
       "type": "file",
-      "file": "Exercises/Similar Triangles \u2014 Ratios and Geometry.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Similar Triangles — Ratios and Geometry.md",
       "x": 1000,
       "y": 1620,
       "width": 360,
@@ -303,7 +303,7 @@
     {
       "id": "n31",
       "type": "file",
-      "file": "Exercises/Negative Numbers \u2014 Operations and Equations.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Negative Numbers — Operations and Equations.md",
       "x": 0,
       "y": 1800,
       "width": 360,

@@ -3,7 +3,7 @@
     {
       "id": "n1",
       "type": "file",
-      "file": "Subject Overview Part 2.md",
+      "file": "Class 9/English Medium/Mathematics/Subject Overview Part 2.md",
       "x": 0,
       "y": 0,
       "width": 360,
@@ -13,7 +13,7 @@
     {
       "id": "n2",
       "type": "file",
-      "file": "Chapters/Chapter 08 - Circle Measures.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 08 - Circle Measures.md",
       "x": 500,
       "y": 0,
       "width": 360,
@@ -23,7 +23,7 @@
     {
       "id": "n3",
       "type": "file",
-      "file": "Chapters/Chapter 09 - Real Numbers.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 09 - Real Numbers.md",
       "x": 1000,
       "y": 0,
       "width": 360,
@@ -33,7 +33,7 @@
     {
       "id": "n4",
       "type": "file",
-      "file": "Chapters/Chapter 10 - Polynomials.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 10 - Polynomials.md",
       "x": 0,
       "y": 180,
       "width": 360,
@@ -43,7 +43,7 @@
     {
       "id": "n5",
       "type": "file",
-      "file": "Chapters/Chapter 11 - Parts of Circles.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 11 - Parts of Circles.md",
       "x": 500,
       "y": 180,
       "width": 360,
@@ -53,7 +53,7 @@
     {
       "id": "n6",
       "type": "file",
-      "file": "Chapters/Chapter 12 - Prisms.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 12 - Prisms.md",
       "x": 1000,
       "y": 180,
       "width": 360,
@@ -63,7 +63,7 @@
     {
       "id": "n7",
       "type": "file",
-      "file": "Chapters/Chapter 13 - Polynomial Pictures.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 13 - Polynomial Pictures.md",
       "x": 0,
       "y": 360,
       "width": 360,
@@ -73,7 +73,7 @@
     {
       "id": "n8",
       "type": "file",
-      "file": "Chapters/Chapter 14 - Proportion.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 14 - Proportion.md",
       "x": 500,
       "y": 360,
       "width": 360,
@@ -83,7 +83,7 @@
     {
       "id": "n9",
       "type": "file",
-      "file": "Chapters/Chapter 15 - Statistics.md",
+      "file": "Class 9/English Medium/Mathematics/Chapters/Chapter 15 - Statistics.md",
       "x": 1000,
       "y": 360,
       "width": 360,
@@ -93,7 +93,7 @@
     {
       "id": "n10",
       "type": "file",
-      "file": "Concepts/Circumference and Pi.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Circumference and Pi.md",
       "x": 0,
       "y": 540,
       "width": 360,
@@ -103,7 +103,7 @@
     {
       "id": "n11",
       "type": "file",
-      "file": "Concepts/Circle Area and Rings.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Circle Area and Rings.md",
       "x": 500,
       "y": 540,
       "width": 360,
@@ -113,7 +113,7 @@
     {
       "id": "n12",
       "type": "file",
-      "file": "Concepts/Absolute Value, Distance and Midpoint.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Absolute Value, Distance and Midpoint.md",
       "x": 1000,
       "y": 540,
       "width": 360,
@@ -123,7 +123,7 @@
     {
       "id": "n13",
       "type": "file",
-      "file": "Concepts/Polynomial Terms and Degree.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Polynomial Terms and Degree.md",
       "x": 0,
       "y": 720,
       "width": 360,
@@ -133,7 +133,7 @@
     {
       "id": "n14",
       "type": "file",
-      "file": "Concepts/Arc Length and Sector Area.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Arc Length and Sector Area.md",
       "x": 500,
       "y": 720,
       "width": 360,
@@ -143,7 +143,7 @@
     {
       "id": "n15",
       "type": "file",
-      "file": "Concepts/Prism Volume and Surface Area.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Prism Volume and Surface Area.md",
       "x": 1000,
       "y": 720,
       "width": 360,
@@ -153,7 +153,7 @@
     {
       "id": "n16",
       "type": "file",
-      "file": "Concepts/Polynomial Graphs and Roots.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Polynomial Graphs and Roots.md",
       "x": 0,
       "y": 900,
       "width": 360,
@@ -163,7 +163,7 @@
     {
       "id": "n17",
       "type": "file",
-      "file": "Concepts/Direct and Inverse Proportion.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Direct and Inverse Proportion.md",
       "x": 500,
       "y": 900,
       "width": 360,
@@ -173,7 +173,7 @@
     {
       "id": "n18",
       "type": "file",
-      "file": "Concepts/Arithmetic Mean and Frequency Tables.md",
+      "file": "Class 9/English Medium/Mathematics/Concepts/Arithmetic Mean and Frequency Tables.md",
       "x": 1000,
       "y": 900,
       "width": 360,
@@ -183,7 +183,7 @@
     {
       "id": "n19",
       "type": "file",
-      "file": "Formulas/Circumference of a circle.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Circumference of a circle.md",
       "x": 0,
       "y": 1080,
       "width": 360,
@@ -193,7 +193,7 @@
     {
       "id": "n20",
       "type": "file",
-      "file": "Formulas/Area of a circle.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Area of a circle.md",
       "x": 500,
       "y": 1080,
       "width": 360,
@@ -203,7 +203,7 @@
     {
       "id": "n21",
       "type": "file",
-      "file": "Formulas/Distance and midpoint on a number line.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Distance and midpoint on a number line.md",
       "x": 1000,
       "y": 1080,
       "width": 360,
@@ -213,7 +213,7 @@
     {
       "id": "n22",
       "type": "file",
-      "file": "Formulas/Polynomial degree.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Polynomial degree.md",
       "x": 0,
       "y": 1260,
       "width": 360,
@@ -223,7 +223,7 @@
     {
       "id": "n23",
       "type": "file",
-      "file": "Formulas/Arc length.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Arc length.md",
       "x": 500,
       "y": 1260,
       "width": 360,
@@ -233,7 +233,7 @@
     {
       "id": "n24",
       "type": "file",
-      "file": "Formulas/Sector area.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Sector area.md",
       "x": 1000,
       "y": 1260,
       "width": 360,
@@ -243,7 +243,7 @@
     {
       "id": "n25",
       "type": "file",
-      "file": "Formulas/Prism volume.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Prism volume.md",
       "x": 0,
       "y": 1440,
       "width": 360,
@@ -253,7 +253,7 @@
     {
       "id": "n26",
       "type": "file",
-      "file": "Formulas/Prism and cylinder surface area.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Prism and cylinder surface area.md",
       "x": 500,
       "y": 1440,
       "width": 360,
@@ -263,7 +263,7 @@
     {
       "id": "n27",
       "type": "file",
-      "file": "Formulas/Direct and inverse proportion.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Direct and inverse proportion.md",
       "x": 1000,
       "y": 1440,
       "width": 360,
@@ -273,7 +273,7 @@
     {
       "id": "n28",
       "type": "file",
-      "file": "Formulas/Arithmetic mean.md",
+      "file": "Class 9/English Medium/Mathematics/Formulas/Arithmetic mean.md",
       "x": 0,
       "y": 1620,
       "width": 360,
@@ -283,7 +283,7 @@
     {
       "id": "n29",
       "type": "file",
-      "file": "Exercises/Circle Measures \u2014 Circumference and Area.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Circle Measures — Circumference and Area.md",
       "x": 500,
       "y": 1620,
       "width": 360,
@@ -293,7 +293,7 @@
     {
       "id": "n30",
       "type": "file",
-      "file": "Exercises/Real Numbers \u2014 Number-Line Reasoning.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Real Numbers — Number-Line Reasoning.md",
       "x": 1000,
       "y": 1620,
       "width": 360,
@@ -303,7 +303,7 @@
     {
       "id": "n31",
       "type": "file",
-      "file": "Exercises/Polynomials \u2014 Algebraic Measurements.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Polynomials — Algebraic Measurements.md",
       "x": 0,
       "y": 1800,
       "width": 360,
@@ -313,7 +313,7 @@
     {
       "id": "n32",
       "type": "file",
-      "file": "Exercises/Parts of Circles \u2014 Arcs and Sectors.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Parts of Circles — Arcs and Sectors.md",
       "x": 500,
       "y": 1800,
       "width": 360,
@@ -323,7 +323,7 @@
     {
       "id": "n33",
       "type": "file",
-      "file": "Exercises/Prisms \u2014 Volume and Surface Area.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Prisms — Volume and Surface Area.md",
       "x": 1000,
       "y": 1800,
       "width": 360,
@@ -333,7 +333,7 @@
     {
       "id": "n34",
       "type": "file",
-      "file": "Exercises/Polynomial Pictures \u2014 Tables and Graphs.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Polynomial Pictures — Tables and Graphs.md",
       "x": 0,
       "y": 1980,
       "width": 360,
@@ -343,7 +343,7 @@
     {
       "id": "n35",
       "type": "file",
-      "file": "Exercises/Proportion \u2014 Comparing Changes.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Proportion — Comparing Changes.md",
       "x": 500,
       "y": 1980,
       "width": 360,
@@ -353,7 +353,7 @@
     {
       "id": "n36",
       "type": "file",
-      "file": "Exercises/Statistics \u2014 Averages and Data Tables.md",
+      "file": "Class 9/English Medium/Mathematics/Exercises/Statistics — Averages and Data Tables.md",
       "x": 1000,
       "y": 1980,
       "width": 360,

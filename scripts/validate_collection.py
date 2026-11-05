@@ -39,7 +39,7 @@ for p in root.rglob('*.canvas'):
   if len(ids)!=len(nodes): errors.append(f'Duplicate Canvas node IDs: {p.relative_to(root)}')
   for n in nodes:
    if n.get('type')!='file': errors.append(f'Non-file Canvas node in {p.relative_to(root)}: {n.get("id")}'); continue
-   f=p.parent/n['file']
+   f=root/n['file']
    if not f.is_file(): errors.append(f'Missing Canvas file node target: {p.relative_to(root)} -> {n.get("file")}')
   for e in edges:
    if e.get('fromNode') not in ids or e.get('toNode') not in ids: errors.append(f'Canvas edge has missing endpoint: {p.relative_to(root)}')

@@ -127,3 +127,10 @@
 - Independently fetched Samagra verification copies for Biology, Physics and all four Social Science PDFs; SHA-256 matched every preserved local file. Existing source files were not overwritten. Current edition and Samagra URL details are recorded in `SOURCE_CATALOG.json` and `EDITION_AUDIT.md`.
 - Updated HOME, README, class/subject/graph indexes, source catalog, scope note and validation report. Current structural validation: 20 PDFs / 1,803 pages, 454 Markdown files, 19 Canvases, 421 Markdown-file nodes, 614 edges, zero broken links/errors/warnings, and zero overlapping Canvas nodes. All 19 current textbooks were visually reviewed in full; missing pages: none.
 - The requested commit is complete on `master`; no remote is configured, so a push was not possible. Copyrighted PDFs remain excluded from Git. The pre-existing Obsidian workspace-state file and empty root Definitions placeholder remain local and unstaged.
+
+
+## 2026-11-05 — Canvas path repair
+
+- Responded to the Obsidian screenshot showing unresolved “New note” / “Swap file” Canvas cards. The generated JSON used paths relative to each Canvas folder, while Obsidian resolves file-node paths from the vault root. Updated all 421 file-node paths across all 19 Canvases to vault-relative paths. Corrected the Chemistry Part II supersaturated-solution node to the in-subject definition note.
+- Updated the validator to check Canvas references from vault root. It now reports 19 Canvases, 421 file nodes, zero errors and zero warnings. Reopened Chemistry Part I in Obsidian and confirmed the unresolved-file controls are gone.
+- The Canvas repair is uncommitted. GitHub CLI is authenticated, but no local remote or matching existing repository is configured. Existing unrelated Obsidian workspace state and user-edited notes remain unstaged.
