@@ -8,7 +8,7 @@
       "y": 900,
       "width": 1140,
       "height": 540,
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "n2",
@@ -18,7 +18,7 @@
       "y": 240,
       "width": 1080,
       "height": 540,
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "n3",
@@ -28,7 +28,7 @@
       "y": 240,
       "width": 1080,
       "height": 540,
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "n4",
@@ -38,7 +38,7 @@
       "y": 240,
       "width": 1080,
       "height": 540,
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "n5",
@@ -48,7 +48,7 @@
       "y": 240,
       "width": 1080,
       "height": 540,
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "n6",
@@ -58,7 +58,7 @@
       "y": 1140,
       "width": 1080,
       "height": 510,
-      "color": "1"
+      "color": "#FF6B6B"
     },
     {
       "id": "n7",
@@ -68,7 +68,7 @@
       "y": 1140,
       "width": 1080,
       "height": 510,
-      "color": "1"
+      "color": "#FF6B6B"
     },
     {
       "id": "n8",
@@ -78,7 +78,7 @@
       "y": 1140,
       "width": 1080,
       "height": 510,
-      "color": "1"
+      "color": "#FF6B6B"
     },
     {
       "id": "n9",
@@ -88,7 +88,7 @@
       "y": 1140,
       "width": 1080,
       "height": 510,
-      "color": "1"
+      "color": "#FF6B6B"
     },
     {
       "id": "n10",
@@ -98,7 +98,7 @@
       "y": 1980,
       "width": 1080,
       "height": 510,
-      "color": "1"
+      "color": "#FF6B6B"
     },
     {
       "id": "n11",
@@ -108,7 +108,7 @@
       "y": 1980,
       "width": 1080,
       "height": 510,
-      "color": "1"
+      "color": "#FF6B6B"
     },
     {
       "id": "n12",
@@ -118,7 +118,7 @@
       "y": 1980,
       "width": 1080,
       "height": 510,
-      "color": "1"
+      "color": "#FF6B6B"
     },
     {
       "id": "n13",
@@ -128,7 +128,7 @@
       "y": 1980,
       "width": 1080,
       "height": 510,
-      "color": "1"
+      "color": "#FF6B6B"
     },
     {
       "id": "n14",
@@ -138,7 +138,7 @@
       "y": 3840,
       "width": 1080,
       "height": 450,
-      "color": "3"
+      "color": "#E9C46A"
     },
     {
       "id": "n15",
@@ -148,7 +148,7 @@
       "y": 3840,
       "width": 1080,
       "height": 450,
-      "color": "3"
+      "color": "#E9C46A"
     },
     {
       "id": "n16",
@@ -158,7 +158,7 @@
       "y": 3840,
       "width": 1080,
       "height": 450,
-      "color": "3"
+      "color": "#E9C46A"
     },
     {
       "id": "n17",
@@ -168,7 +168,7 @@
       "y": 3840,
       "width": 1080,
       "height": 450,
-      "color": "3"
+      "color": "#E9C46A"
     },
     {
       "id": "n18",
@@ -178,7 +178,7 @@
       "y": 4680,
       "width": 1080,
       "height": 450,
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "n19",
@@ -188,7 +188,7 @@
       "y": 4680,
       "width": 1080,
       "height": 450,
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "n20",
@@ -198,7 +198,7 @@
       "y": 4680,
       "width": 1080,
       "height": 450,
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "n21",
@@ -208,7 +208,7 @@
       "y": 4680,
       "width": 1080,
       "height": 450,
-      "color": "4"
+      "color": "#2A9D8F"
     }
   ],
   "edges": [
@@ -217,140 +217,160 @@
       "fromNode": "n1",
       "fromSide": "right",
       "toNode": "n2",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e2",
       "fromNode": "n2",
       "fromSide": "right",
       "toNode": "n6",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e3",
       "fromNode": "n2",
       "fromSide": "right",
       "toNode": "n7",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e4",
       "fromNode": "n2",
       "fromSide": "right",
       "toNode": "n18",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e5",
       "fromNode": "n2",
       "fromSide": "right",
       "toNode": "n14",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e6",
       "fromNode": "n1",
       "fromSide": "right",
       "toNode": "n3",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e7",
       "fromNode": "n3",
       "fromSide": "right",
       "toNode": "n8",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e8",
       "fromNode": "n3",
       "fromSide": "right",
       "toNode": "n9",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e9",
       "fromNode": "n3",
       "fromSide": "right",
       "toNode": "n19",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e10",
       "fromNode": "n3",
       "fromSide": "right",
       "toNode": "n15",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e11",
       "fromNode": "n1",
       "fromSide": "right",
       "toNode": "n4",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e12",
       "fromNode": "n4",
       "fromSide": "right",
       "toNode": "n10",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e13",
       "fromNode": "n4",
       "fromSide": "right",
       "toNode": "n11",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e14",
       "fromNode": "n4",
       "fromSide": "right",
       "toNode": "n20",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e15",
       "fromNode": "n4",
       "fromSide": "right",
       "toNode": "n16",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e16",
       "fromNode": "n1",
       "fromSide": "right",
       "toNode": "n5",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e17",
       "fromNode": "n5",
       "fromSide": "right",
       "toNode": "n12",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e18",
       "fromNode": "n5",
       "fromSide": "right",
       "toNode": "n13",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e19",
       "fromNode": "n5",
       "fromSide": "right",
       "toNode": "n21",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e20",
       "fromNode": "n5",
       "fromSide": "right",
       "toNode": "n17",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e21",
@@ -358,7 +378,8 @@
       "fromSide": "right",
       "toNode": "n4",
       "toSide": "left",
-      "label": "acceleration"
+      "label": "acceleration",
+      "color": "#9B5DE5"
     },
     {
       "id": "e22",
@@ -366,7 +387,8 @@
       "fromSide": "right",
       "toNode": "n5",
       "toSide": "left",
-      "label": "force"
+      "label": "force",
+      "color": "#9B5DE5"
     },
     {
       "id": "e23",
@@ -374,7 +396,8 @@
       "fromSide": "right",
       "toNode": "n5",
       "toSide": "left",
-      "label": "momentum and force"
+      "label": "momentum and force",
+      "color": "#9B5DE5"
     },
     {
       "id": "e24",
@@ -382,7 +405,8 @@
       "fromSide": "right",
       "toNode": "n10",
       "toSide": "left",
-      "label": "force changes motion"
+      "label": "force changes motion",
+      "color": "#9B5DE5"
     },
     {
       "id": "e25",
@@ -390,7 +414,8 @@
       "fromSide": "right",
       "toNode": "n12",
       "toSide": "left",
-      "label": "gravity is a force"
+      "label": "gravity is a force",
+      "color": "#9B5DE5"
     },
     {
       "id": "e26",
@@ -398,7 +423,8 @@
       "fromSide": "right",
       "toNode": "n13",
       "toSide": "left",
-      "label": "free-fall acceleration"
+      "label": "free-fall acceleration",
+      "color": "#9B5DE5"
     },
     {
       "id": "e27",
@@ -406,7 +432,8 @@
       "fromSide": "right",
       "toNode": "n16",
       "toSide": "left",
-      "label": "gravitation equation"
+      "label": "gravitation equation",
+      "color": "#9B5DE5"
     },
     {
       "id": "e28",
@@ -414,7 +441,8 @@
       "fromSide": "right",
       "toNode": "n17",
       "toSide": "left",
-      "label": "weight equation"
+      "label": "weight equation",
+      "color": "#9B5DE5"
     },
     {
       "id": "e29",
@@ -422,7 +450,8 @@
       "fromSide": "right",
       "toNode": "n9",
       "toSide": "left",
-      "label": "velocity change"
+      "label": "velocity change",
+      "color": "#9B5DE5"
     },
     {
       "id": "e30",
@@ -430,7 +459,8 @@
       "fromSide": "right",
       "toNode": "n7",
       "toSide": "left",
-      "label": "boundary conditions"
+      "label": "boundary conditions",
+      "color": "#9B5DE5"
     }
   ]
 }

@@ -338,42 +338,48 @@
       "fromSide": "right",
       "toNode": "n2",
       "toSide": "left",
-      "label": "Part II \u00b7 Chapter 6"
+      "label": "Part II \u00b7 Chapter 6",
+      "color": "#9B5DE5"
     },
     {
       "id": "e2",
       "fromNode": "n2",
       "fromSide": "right",
       "toNode": "n3",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e3",
       "fromNode": "n2",
       "fromSide": "right",
       "toNode": "n4",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e4",
       "fromNode": "n2",
       "fromSide": "right",
       "toNode": "n5",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e5",
       "fromNode": "n2",
       "fromSide": "right",
       "toNode": "n6",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e6",
       "fromNode": "n2",
       "fromSide": "right",
       "toNode": "n7",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e7",
@@ -381,7 +387,8 @@
       "fromSide": "right",
       "toNode": "n8",
       "toSide": "left",
-      "label": "activities"
+      "label": "activities",
+      "color": "#9B5DE5"
     },
     {
       "id": "e8",
@@ -389,7 +396,8 @@
       "fromSide": "right",
       "toNode": "n4",
       "toSide": "left",
-      "label": "models underpin NLP"
+      "label": "models underpin NLP",
+      "color": "#9B5DE5"
     },
     {
       "id": "e9",
@@ -397,7 +405,8 @@
       "fromSide": "right",
       "toNode": "n5",
       "toSide": "left",
-      "label": "guided by prompts"
+      "label": "guided by prompts",
+      "color": "#9B5DE5"
     },
     {
       "id": "e10",
@@ -405,7 +414,8 @@
       "fromSide": "right",
       "toNode": "n6",
       "toSide": "left",
-      "label": "image prompts"
+      "label": "image prompts",
+      "color": "#9B5DE5"
     },
     {
       "id": "e11",
@@ -413,7 +423,8 @@
       "fromSide": "right",
       "toNode": "n7",
       "toSide": "left",
-      "label": "verify output"
+      "label": "verify output",
+      "color": "#9B5DE5"
     },
     {
       "id": "e12",
@@ -421,7 +432,8 @@
       "fromSide": "right",
       "toNode": "n2",
       "toSide": "left",
-      "label": "responsible use"
+      "label": "responsible use",
+      "color": "#9B5DE5"
     },
     {
       "id": "e13",
@@ -429,28 +441,32 @@
       "fromSide": "right",
       "toNode": "n9",
       "toSide": "left",
-      "label": "Part II \u00b7 Chapter 7"
+      "label": "Part II \u00b7 Chapter 7",
+      "color": "#9B5DE5"
     },
     {
       "id": "e14",
       "fromNode": "n9",
       "fromSide": "right",
       "toNode": "n10",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e15",
       "fromNode": "n9",
       "fromSide": "right",
       "toNode": "n11",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e16",
       "fromNode": "n9",
       "fromSide": "right",
       "toNode": "n12",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e17",
@@ -458,7 +474,8 @@
       "fromSide": "right",
       "toNode": "n13",
       "toSide": "left",
-      "label": "activities"
+      "label": "activities",
+      "color": "#9B5DE5"
     },
     {
       "id": "e18",
@@ -466,7 +483,8 @@
       "fromSide": "right",
       "toNode": "n11",
       "toSide": "left",
-      "label": "interactive learning"
+      "label": "interactive learning",
+      "color": "#9B5DE5"
     },
     {
       "id": "e19",
@@ -474,7 +492,8 @@
       "fromSide": "right",
       "toNode": "n12",
       "toSide": "left",
-      "label": "models and simulations"
+      "label": "models and simulations",
+      "color": "#9B5DE5"
     },
     {
       "id": "e20",
@@ -482,35 +501,40 @@
       "fromSide": "right",
       "toNode": "n14",
       "toSide": "left",
-      "label": "Part II \u00b7 Chapter 8"
+      "label": "Part II \u00b7 Chapter 8",
+      "color": "#9B5DE5"
     },
     {
       "id": "e21",
       "fromNode": "n14",
       "fromSide": "right",
       "toNode": "n15",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e22",
       "fromNode": "n14",
       "fromSide": "right",
       "toNode": "n16",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e23",
       "fromNode": "n14",
       "fromSide": "right",
       "toNode": "n17",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e24",
       "fromNode": "n14",
       "fromSide": "right",
       "toNode": "n18",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e25",
@@ -518,7 +542,8 @@
       "fromSide": "right",
       "toNode": "n19",
       "toSide": "left",
-      "label": "activities"
+      "label": "activities",
+      "color": "#9B5DE5"
     },
     {
       "id": "e26",
@@ -526,7 +551,8 @@
       "fromSide": "right",
       "toNode": "n16",
       "toSide": "left",
-      "label": "consistent visual system"
+      "label": "consistent visual system",
+      "color": "#9B5DE5"
     },
     {
       "id": "e27",
@@ -534,7 +560,8 @@
       "fromSide": "right",
       "toNode": "n17",
       "toSide": "left",
-      "label": "visual communication"
+      "label": "visual communication",
+      "color": "#9B5DE5"
     },
     {
       "id": "e28",
@@ -542,7 +569,8 @@
       "fromSide": "right",
       "toNode": "n18",
       "toSide": "left",
-      "label": "audience communication"
+      "label": "audience communication",
+      "color": "#9B5DE5"
     },
     {
       "id": "e29",
@@ -550,35 +578,40 @@
       "fromSide": "right",
       "toNode": "n20",
       "toSide": "left",
-      "label": "Part II \u00b7 Chapter 9"
+      "label": "Part II \u00b7 Chapter 9",
+      "color": "#9B5DE5"
     },
     {
       "id": "e30",
       "fromNode": "n20",
       "fromSide": "right",
       "toNode": "n21",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e31",
       "fromNode": "n20",
       "fromSide": "right",
       "toNode": "n22",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e32",
       "fromNode": "n20",
       "fromSide": "right",
       "toNode": "n23",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e33",
       "fromNode": "n20",
       "fromSide": "right",
       "toNode": "n24",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e34",
@@ -586,7 +619,8 @@
       "fromSide": "right",
       "toNode": "n25",
       "toSide": "left",
-      "label": "activities"
+      "label": "activities",
+      "color": "#9B5DE5"
     },
     {
       "id": "e35",
@@ -594,7 +628,8 @@
       "fromSide": "right",
       "toNode": "n22",
       "toSide": "left",
-      "label": "request and render"
+      "label": "request and render",
+      "color": "#9B5DE5"
     },
     {
       "id": "e36",
@@ -602,7 +637,8 @@
       "fromSide": "right",
       "toNode": "n23",
       "toSide": "left",
-      "label": "elements and attributes"
+      "label": "elements and attributes",
+      "color": "#9B5DE5"
     },
     {
       "id": "e37",
@@ -610,7 +646,8 @@
       "fromSide": "right",
       "toNode": "n24",
       "toSide": "left",
-      "label": "media and layout"
+      "label": "media and layout",
+      "color": "#9B5DE5"
     },
     {
       "id": "e38",
@@ -618,49 +655,56 @@
       "fromSide": "right",
       "toNode": "n26",
       "toSide": "left",
-      "label": "Part II \u00b7 Chapter 10"
+      "label": "Part II \u00b7 Chapter 10",
+      "color": "#9B5DE5"
     },
     {
       "id": "e39",
       "fromNode": "n26",
       "fromSide": "right",
       "toNode": "n27",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e40",
       "fromNode": "n26",
       "fromSide": "right",
       "toNode": "n28",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e41",
       "fromNode": "n26",
       "fromSide": "right",
       "toNode": "n29",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e42",
       "fromNode": "n26",
       "fromSide": "right",
       "toNode": "n30",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e43",
       "fromNode": "n26",
       "fromSide": "right",
       "toNode": "n31",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e44",
       "fromNode": "n26",
       "fromSide": "right",
       "toNode": "n32",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "#9B5DE5"
     },
     {
       "id": "e45",
@@ -668,7 +712,8 @@
       "fromSide": "right",
       "toNode": "n33",
       "toSide": "left",
-      "label": "activities"
+      "label": "activities",
+      "color": "#9B5DE5"
     },
     {
       "id": "e46",
@@ -676,7 +721,8 @@
       "fromSide": "right",
       "toNode": "n28",
       "toSide": "left",
-      "label": "infrastructure enables sharing"
+      "label": "infrastructure enables sharing",
+      "color": "#9B5DE5"
     },
     {
       "id": "e47",
@@ -684,7 +730,8 @@
       "fromSide": "right",
       "toNode": "n29",
       "toSide": "left",
-      "label": "devices need addresses"
+      "label": "devices need addresses",
+      "color": "#9B5DE5"
     },
     {
       "id": "e48",
@@ -692,7 +739,8 @@
       "fromSide": "right",
       "toNode": "n30",
       "toSide": "left",
-      "label": "protocols assign and use addresses"
+      "label": "protocols assign and use addresses",
+      "color": "#9B5DE5"
     },
     {
       "id": "e49",
@@ -700,7 +748,8 @@
       "fromSide": "right",
       "toNode": "n31",
       "toSide": "left",
-      "label": "network services"
+      "label": "network services",
+      "color": "#9B5DE5"
     },
     {
       "id": "e50",
@@ -708,7 +757,8 @@
       "fromSide": "right",
       "toNode": "n32",
       "toSide": "left",
-      "label": "local to global networks"
+      "label": "local to global networks",
+      "color": "#9B5DE5"
     },
     {
       "id": "e51",
@@ -716,7 +766,8 @@
       "fromSide": "right",
       "toNode": "n21",
       "toSide": "left",
-      "label": "domain names identify web servers"
+      "label": "domain names identify web servers",
+      "color": "#9B5DE5"
     }
   ]
 }

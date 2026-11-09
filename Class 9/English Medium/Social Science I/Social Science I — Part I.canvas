@@ -8,7 +8,7 @@
       "y": 0,
       "width": 1260,
       "height": 480,
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "n2",
@@ -18,7 +18,7 @@
       "y": 600,
       "width": 1260,
       "height": 480,
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "n3",
@@ -28,7 +28,7 @@
       "y": 600,
       "width": 1260,
       "height": 480,
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "n4",
@@ -38,7 +38,7 @@
       "y": 1500,
       "width": 1260,
       "height": 480,
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "n5",
@@ -48,7 +48,7 @@
       "y": 1500,
       "width": 1260,
       "height": 480,
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "n6",
@@ -58,7 +58,7 @@
       "y": 2400,
       "width": 1260,
       "height": 480,
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "n7",
@@ -68,7 +68,7 @@
       "y": 2400,
       "width": 1260,
       "height": 480,
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "n8",
@@ -78,7 +78,7 @@
       "y": 3300,
       "width": 1260,
       "height": 480,
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "n9",
@@ -88,7 +88,7 @@
       "y": 3300,
       "width": 1260,
       "height": 480,
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "n10",
@@ -98,7 +98,7 @@
       "y": 4200,
       "width": 1260,
       "height": 480,
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "n11",
@@ -108,7 +108,7 @@
       "y": 4200,
       "width": 1260,
       "height": 480,
-      "color": "4"
+      "color": "#2A9D8F"
     }
   ],
   "edges": [
@@ -118,7 +118,7 @@
       "fromSide": "bottom",
       "toNode": "n2",
       "toSide": "top",
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "e2",
@@ -126,7 +126,7 @@
       "fromSide": "right",
       "toNode": "n7",
       "toSide": "left",
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "e3",
@@ -134,7 +134,7 @@
       "fromSide": "bottom",
       "toNode": "n3",
       "toSide": "top",
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "e4",
@@ -142,7 +142,7 @@
       "fromSide": "right",
       "toNode": "n8",
       "toSide": "left",
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "e5",
@@ -150,7 +150,7 @@
       "fromSide": "bottom",
       "toNode": "n3",
       "toSide": "top",
-      "color": "6"
+      "color": "#9B5DE5"
     },
     {
       "id": "e6",
@@ -158,7 +158,7 @@
       "fromSide": "bottom",
       "toNode": "n4",
       "toSide": "top",
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "e7",
@@ -166,7 +166,7 @@
       "fromSide": "right",
       "toNode": "n9",
       "toSide": "left",
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "e8",
@@ -174,7 +174,7 @@
       "fromSide": "bottom",
       "toNode": "n4",
       "toSide": "top",
-      "color": "6"
+      "color": "#9B5DE5"
     },
     {
       "id": "e9",
@@ -182,7 +182,7 @@
       "fromSide": "bottom",
       "toNode": "n5",
       "toSide": "top",
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "e10",
@@ -190,7 +190,7 @@
       "fromSide": "right",
       "toNode": "n10",
       "toSide": "left",
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "e11",
@@ -198,7 +198,7 @@
       "fromSide": "bottom",
       "toNode": "n5",
       "toSide": "top",
-      "color": "6"
+      "color": "#9B5DE5"
     },
     {
       "id": "e12",
@@ -206,7 +206,7 @@
       "fromSide": "bottom",
       "toNode": "n6",
       "toSide": "top",
-      "color": "5"
+      "color": "#457B9D"
     },
     {
       "id": "e13",
@@ -214,7 +214,7 @@
       "fromSide": "right",
       "toNode": "n11",
       "toSide": "left",
-      "color": "4"
+      "color": "#2A9D8F"
     },
     {
       "id": "e14",
@@ -222,7 +222,7 @@
       "fromSide": "bottom",
       "toNode": "n6",
       "toSide": "top",
-      "color": "6"
+      "color": "#9B5DE5"
     },
     {
       "id": "cross1",
@@ -230,7 +230,7 @@
       "fromSide": "right",
       "toNode": "n3",
       "toSide": "left",
-      "color": "6"
+      "color": "#9B5DE5"
     },
     {
       "id": "cross2",
@@ -238,7 +238,7 @@
       "fromSide": "right",
       "toNode": "n4",
       "toSide": "left",
-      "color": "6"
+      "color": "#9B5DE5"
     },
     {
       "id": "cross3",
@@ -246,7 +246,7 @@
       "fromSide": "right",
       "toNode": "n6",
       "toSide": "left",
-      "color": "6"
+      "color": "#9B5DE5"
     },
     {
       "id": "cross4",
@@ -254,7 +254,7 @@
       "fromSide": "right",
       "toNode": "n6",
       "toSide": "left",
-      "color": "6"
+      "color": "#9B5DE5"
     }
   ]
 }
