@@ -16,4 +16,4 @@ The amount of energy required to remove the most loosely bound electron from the
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 47.
 
 ## Related notes
-- [[../Chapters/Chapter 03 - Chemical Bonding]]
+- [[../Chapter 03 - Chemical Bonding/Chapter 03 - Chemical Bonding]]

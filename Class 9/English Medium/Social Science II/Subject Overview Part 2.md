@@ -8,17 +8,17 @@ tags: [class/9, medium/english, subject/social-science-ii, type/overview]
 ---
 # Social Science II — Part II
 
-Source: [[../_Source PDFs/Social Science 2 Part 2.pdf]]. The complete Social Science 2 Part 2.pdf (88 PDF pages) was visually reviewed page by page, including maps, diagrams, tables, photographs, activities, exercises and closing inserts.
+Source: [[Chapter 01 - Indian-Economy-Through-Various-Sectors/Social Science 2 Part 2.pdf]]. The complete Social Science 2 Part 2.pdf (88 PDF pages) was visually reviewed page by page, including maps, diagrams, tables, photographs, activities, exercises and closing inserts.
 
 ## Chapters
 
-- [[Chapters/Chapter 01 - Indian-Economy-Through-Various-Sectors|Indian Economy Through Various Sectors]] — printed pp. 103–122
+- [[Chapter 01 - Indian-Economy-Through-Various-Sectors/Chapter 01 - Indian-Economy-Through-Various-Sectors|Indian Economy Through Various Sectors]] — printed pp. 103–122
 
-- [[Chapters/Chapter 02 - Price-and-Market|Price and Market]] — printed pp. 123–142
+- [[Chapter 02 - Price-and-Market/Chapter 02 - Price-and-Market|Price and Market]] — printed pp. 123–142
 
-- [[Chapters/Chapter 03 - Through-the-Sandy-Expanse|Through the Sandy Expanse]] — printed pp. 143–162
+- [[Chapter 03 - Through-the-Sandy-Expanse/Chapter 03 - Through-the-Sandy-Expanse|Through the Sandy Expanse]] — printed pp. 143–162
 
-- [[Chapters/Chapter 04 - Along-the-Coasts|Along the Coasts]] — printed pp. 163–182
+- [[Chapter 04 - Along-the-Coasts/Chapter 04 - Along-the-Coasts|Along the Coasts]] — printed pp. 163–182
 
 
 ## Canvas colour legend

@@ -16,4 +16,4 @@ Open-chain hydrocarbons with only single carbon-carbon bonds are alkanes; those 
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 155-159.
 
 ## Related notes
-- [[../Chapters/Chapter 08 - Organic Chemistry]]
+- [[../Chapter 08 - Organic Chemistry/Chapter 08 - Organic Chemistry]]

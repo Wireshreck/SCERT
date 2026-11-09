@@ -16,4 +16,4 @@ The mass of solute in grams required to saturate 100 g of a solvent at a given t
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 121.
 
 ## Related notes
-- [[../Chapters/Chapter 06 - Solutions]]
+- [[../Chapter 06 - Solutions/Chapter 06 - Solutions]]

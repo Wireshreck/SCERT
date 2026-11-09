@@ -16,4 +16,4 @@ A=πr². For an annulus with radii R and r, shaded area = πR²−πr²=π(R²�
 **Textbook reference:** Mathematics Standard IX Part II, printed pp. 158-164.
 
 ## Related notes
-- [[../Chapters/Chapter 08 - Circle Measures]]
+- [[../Chapter 08 - Circle Measures/Chapter 08 - Circle Measures]]

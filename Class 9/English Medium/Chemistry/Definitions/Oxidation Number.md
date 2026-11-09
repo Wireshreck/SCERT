@@ -16,4 +16,4 @@ For ionic compounds, the charge on each ion is its oxidation number. For covalen
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 79-80.
 
 ## Related notes
-- [[../Chapters/Chapter 04 - Redox Reactions]]
+- [[../Chapter 04 - Redox Reactions/Chapter 04 - Redox Reactions]]

@@ -16,4 +16,4 @@ Mass percentage = (mass of solute ÷ mass of solution) × 100. Mass of solution 
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 117.
 
 ## Related notes
-- [[../Chapters/Chapter 06 - Solutions]]
+- [[../Chapter 06 - Solutions/Chapter 06 - Solutions]]

@@ -16,4 +16,4 @@ The minimum energy requirement described in the chapter for reactants to undergo
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 107.
 
 ## Related notes
-- [[../Chapters/Chapter 05 - Chemical Kinetics]]
+- [[../Chapter 05 - Chemical Kinetics/Chapter 05 - Chemical Kinetics]]

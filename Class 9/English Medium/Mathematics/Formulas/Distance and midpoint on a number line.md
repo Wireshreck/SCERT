@@ -16,4 +16,4 @@ Distance(a,b)=|a−b|. Midpoint(a,b)=(a+b)/2. Absolute value is nonnegative and 
 **Textbook reference:** Mathematics Standard IX Part II, printed pp. 168-176.
 
 ## Related notes
-- [[../Chapters/Chapter 09 - Real Numbers]]
+- [[../Chapter 09 - Real Numbers/Chapter 09 - Real Numbers]]

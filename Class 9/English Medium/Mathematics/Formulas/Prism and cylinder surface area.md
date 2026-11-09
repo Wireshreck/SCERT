@@ -16,4 +16,4 @@ Right prism lateral area L=P·h and total area S=P·h+2B. Cylinder lateral area 
 **Textbook reference:** Mathematics Standard IX Part II, printed pp. 201-208.
 
 ## Related notes
-- [[../Chapters/Chapter 12 - Prisms]]
+- [[../Chapter 12 - Prisms/Chapter 12 - Prisms]]

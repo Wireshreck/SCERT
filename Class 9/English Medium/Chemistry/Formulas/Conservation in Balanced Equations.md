@@ -16,4 +16,4 @@ For each element, atom count on reactant side = atom count on product side; coef
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 71-74.
 
 ## Related notes
-- [[../Chapters/Chapter 04 - Redox Reactions]]
+- [[../Chapter 04 - Redox Reactions/Chapter 04 - Redox Reactions]]

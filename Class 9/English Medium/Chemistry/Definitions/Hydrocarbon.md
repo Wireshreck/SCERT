@@ -16,4 +16,4 @@ A compound containing only carbon and hydrogen.
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 155.
 
 ## Related notes
-- [[../Chapters/Chapter 08 - Organic Chemistry]]
+- [[../Chapter 08 - Organic Chemistry/Chapter 08 - Organic Chemistry]]

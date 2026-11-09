@@ -16,4 +16,4 @@ For θ° and radius r: A_sector=(θ/360°)·πr². A sector’s area fraction eq
 **Textbook reference:** Mathematics Standard IX Part II, printed pp. 190-194.
 
 ## Related notes
-- [[../Chapters/Chapter 11 - Parts of Circles]]
+- [[../Chapter 11 - Parts of Circles/Chapter 11 - Parts of Circles]]

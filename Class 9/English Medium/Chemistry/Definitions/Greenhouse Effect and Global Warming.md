@@ -16,4 +16,4 @@ The greenhouse effect is trapping and re-radiation of some outgoing infrared hea
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 169.
 
 ## Related notes
-- [[../Chapters/Chapter 08 - Organic Chemistry]]
+- [[../Chapter 08 - Organic Chemistry/Chapter 08 - Organic Chemistry]]

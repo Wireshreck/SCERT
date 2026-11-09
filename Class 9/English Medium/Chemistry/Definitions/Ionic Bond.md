@@ -16,4 +16,4 @@ The electrostatic force of attraction that holds oppositely charged ions togethe
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 50.
 
 ## Related notes
-- [[../Chapters/Chapter 03 - Chemical Bonding]]
+- [[../Chapter 03 - Chemical Bonding/Chapter 03 - Chemical Bonding]]

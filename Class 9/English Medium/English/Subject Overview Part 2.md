@@ -12,8 +12,8 @@ tags: [class/9, medium/english, subject/english, type/overview]
 **Kerala SCERT English Kerala Reader Standard IX Part II, First Edition 2024.** All pages were visually reviewed, including the reading texts, illustrations, response panels, language tables, writing tasks, glossary, note pages and civic inserts. The notes summarize the lessons and language learning without reproducing the textbook texts.
 
 ## Units
-- [[Chapters/Unit 01 - Strive and Thrive.md|Strive and Thrive]] — printed pp. 119-154
-- [[Chapters/Unit 02 - Media Matters.md|Media Matters]] — printed pp. 155-180
+- [[Unit 01 - Strive and Thrive/Unit 01 - Strive and Thrive.md|Strive and Thrive]] — printed pp. 119-154
+- [[Unit 02 - Media Matters/Unit 02 - Media Matters.md|Media Matters]] — printed pp. 155-180
 
 ## Colour legend
 - Red `#FF6B6B`: important concepts and reading ideas

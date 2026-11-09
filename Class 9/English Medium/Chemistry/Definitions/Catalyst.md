@@ -16,4 +16,4 @@ A substance that increases the rate of a chemical reaction without itself underg
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 108.
 
 ## Related notes
-- [[../Chapters/Chapter 05 - Chemical Kinetics]]
+- [[../Chapter 05 - Chemical Kinetics/Chapter 05 - Chemical Kinetics]]

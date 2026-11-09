@@ -16,4 +16,4 @@ An equation balanced by equalising the number of atoms of each element in reacta
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 73-74.
 
 ## Related notes
-- [[../Chapters/Chapter 04 - Redox Reactions]]
+- [[../Chapter 04 - Redox Reactions/Chapter 04 - Redox Reactions]]

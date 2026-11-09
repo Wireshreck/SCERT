@@ -18,7 +18,7 @@ The sum of the chemical reactions taking place in an organism. The textbook dist
 
 ## Related notes
 
-[[../Chapters/01 - To Life Processes]]
+[[../01 - To Life Processes/01 - To Life Processes]]
 
 ## Source
 

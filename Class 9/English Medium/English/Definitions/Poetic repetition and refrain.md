@@ -17,4 +17,4 @@ Repetition is the recurrence of words, sounds or structures for emphasis and rhy
 **Textbook reference:** English Kerala Reader Standard IX Part II, printed pp. 139-144.
 
 ## Related notes
-- [[../Chapters/Unit 01 - Strive and Thrive]]
+- [[../Unit 01 - Strive and Thrive/Unit 01 - Strive and Thrive]]

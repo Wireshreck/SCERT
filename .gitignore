@@ -1,5 +1,10 @@
 # Keep source textbooks local unless redistribution is explicitly permitted
-Class 9/English Medium/_Source PDFs/
+# Source PDFs now live alongside the notes in the per-chapter folders, e.g.
+# Class 9/English Medium/<Subject>/<Chapter>/<*.pdf>
+Class 9/English Medium/**/*.pdf
 
 # Temporary visual review renders
 Class 9/English Medium/.review/
+
+# Machine-specific Obsidian window state (open panes, last-opened files)
+.obsidian/workspace.json

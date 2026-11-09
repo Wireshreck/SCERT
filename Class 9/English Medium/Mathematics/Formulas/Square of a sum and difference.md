@@ -16,4 +16,4 @@ tags: [class/9, medium/english, subject/mathematics, type/formula]
 **Textbook reference:** Mathematics Standard IX Part I, printed pp. 61-76.
 
 ## Related notes
-- [[../Chapters/Chapter 04 - Multiplication Identities]]
+- [[../Chapter 04 - Multiplication Identities/Chapter 04 - Multiplication Identities]]

@@ -16,4 +16,4 @@ An oxidising agent helps oxidation and is itself reduced. A reducing agent helps
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 77-78.
 
 ## Related notes
-- [[../Chapters/Chapter 04 - Redox Reactions]]
+- [[../Chapter 04 - Redox Reactions/Chapter 04 - Redox Reactions]]

@@ -17,4 +17,4 @@ Suffixes can form adjectives or adverbs and may change a word’s meaning or gra
 **Textbook reference:** English Kerala Reader Standard IX Part I, printed pp. 32-36.
 
 ## Related notes
-- [[../Chapters/Unit 01 - Hours and Years]]
+- [[../Unit 01 - Hours and Years/Unit 01 - Hours and Years]]

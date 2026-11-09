@@ -16,4 +16,4 @@ If p² < n < q², then p < √n < q for nonnegative p,q. Refine with decimal can
 **Textbook reference:** Mathematics Standard IX Part I, printed pp. 20-27.
 
 ## Related notes
-- [[../Chapters/Chapter 02 - New Numbers]]
+- [[../Chapter 02 - New Numbers/Chapter 02 - New Numbers]]

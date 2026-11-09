@@ -13,7 +13,7 @@
     {
       "id": "n2",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Chapters/01 - Refraction of Light.md",
+      "file": "Class 9/English Medium/Physics/01 - Refraction of Light/01 - Refraction of Light.md",
       "x": 1500,
       "y": 240,
       "width": 1080,
@@ -23,7 +23,7 @@
     {
       "id": "n3",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Chapters/02 - Equations of Motion.md",
+      "file": "Class 9/English Medium/Physics/02 - Equations of Motion/02 - Equations of Motion.md",
       "x": 2820,
       "y": 240,
       "width": 1080,
@@ -33,7 +33,7 @@
     {
       "id": "n4",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Chapters/03 - Laws of Motion.md",
+      "file": "Class 9/English Medium/Physics/03 - Laws of Motion/03 - Laws of Motion.md",
       "x": 4140,
       "y": 240,
       "width": 1080,
@@ -43,7 +43,7 @@
     {
       "id": "n5",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Chapters/04 - Gravitation.md",
+      "file": "Class 9/English Medium/Physics/04 - Gravitation/04 - Gravitation.md",
       "x": 5460,
       "y": 240,
       "width": 1080,
@@ -53,7 +53,7 @@
     {
       "id": "n6",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Concepts/Refraction and Optical Density.md",
+      "file": "Class 9/English Medium/Physics/01 - Refraction of Light/Concepts/Refraction and Optical Density.md",
       "x": 1500,
       "y": 1140,
       "width": 1080,
@@ -63,7 +63,7 @@
     {
       "id": "n7",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Concepts/Total Internal Reflection.md",
+      "file": "Class 9/English Medium/Physics/01 - Refraction of Light/Concepts/Total Internal Reflection.md",
       "x": 2820,
       "y": 1140,
       "width": 1080,
@@ -73,7 +73,7 @@
     {
       "id": "n8",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Concepts/Distance Displacement Speed and Velocity.md",
+      "file": "Class 9/English Medium/Physics/02 - Equations of Motion/Concepts/Distance Displacement Speed and Velocity.md",
       "x": 4140,
       "y": 1140,
       "width": 1080,
@@ -83,7 +83,7 @@
     {
       "id": "n9",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Concepts/Acceleration and Motion Graphs.md",
+      "file": "Class 9/English Medium/Physics/02 - Equations of Motion/Concepts/Acceleration and Motion Graphs.md",
       "x": 5460,
       "y": 1140,
       "width": 1080,
@@ -93,7 +93,7 @@
     {
       "id": "n10",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Concepts/Newtons Laws and Inertia.md",
+      "file": "Class 9/English Medium/Physics/03 - Laws of Motion/Concepts/Newtons Laws and Inertia.md",
       "x": 1500,
       "y": 1980,
       "width": 1080,
@@ -103,7 +103,7 @@
     {
       "id": "n11",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Concepts/Momentum and Impulse.md",
+      "file": "Class 9/English Medium/Physics/03 - Laws of Motion/Concepts/Momentum and Impulse.md",
       "x": 2820,
       "y": 1980,
       "width": 1080,
@@ -113,7 +113,7 @@
     {
       "id": "n12",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Concepts/Universal Gravitation.md",
+      "file": "Class 9/English Medium/Physics/04 - Gravitation/Concepts/Universal Gravitation.md",
       "x": 4140,
       "y": 1980,
       "width": 1080,
@@ -123,7 +123,7 @@
     {
       "id": "n13",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Concepts/Free Fall Mass and Weight.md",
+      "file": "Class 9/English Medium/Physics/04 - Gravitation/Concepts/Free Fall Mass and Weight.md",
       "x": 5460,
       "y": 1980,
       "width": 1080,
@@ -173,7 +173,7 @@
     {
       "id": "n18",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Exercises/Chapter 1 Activities and Assessment.md",
+      "file": "Class 9/English Medium/Physics/01 - Refraction of Light/Questions/Chapter 1 Activities and Assessment.md",
       "x": 1500,
       "y": 4680,
       "width": 1080,
@@ -183,7 +183,7 @@
     {
       "id": "n19",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Exercises/Chapter 2 Activities and Assessment.md",
+      "file": "Class 9/English Medium/Physics/02 - Equations of Motion/Questions/Chapter 2 Activities and Assessment.md",
       "x": 2820,
       "y": 4680,
       "width": 1080,
@@ -193,7 +193,7 @@
     {
       "id": "n20",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Exercises/Chapter 3 Activities and Assessment.md",
+      "file": "Class 9/English Medium/Physics/03 - Laws of Motion/Questions/Chapter 3 Activities and Assessment.md",
       "x": 4140,
       "y": 4680,
       "width": 1080,
@@ -203,7 +203,7 @@
     {
       "id": "n21",
       "type": "file",
-      "file": "Class 9/English Medium/Physics/Exercises/Chapter 4 Activities and Assessment.md",
+      "file": "Class 9/English Medium/Physics/04 - Gravitation/Questions/Chapter 4 Activities and Assessment.md",
       "x": 5460,
       "y": 4680,
       "width": 1080,

@@ -16,4 +16,4 @@ If corresponding side lengths have ratio k, then corresponding areas have ratio 
 **Textbook reference:** Mathematics Standard IX Part I, printed pp. 101-114.
 
 ## Related notes
-- [[../Chapters/Chapter 06 - Similar Triangles]]
+- [[../Chapter 06 - Similar Triangles/Chapter 06 - Similar Triangles]]

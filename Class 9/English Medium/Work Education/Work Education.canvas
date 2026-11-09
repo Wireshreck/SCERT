@@ -13,7 +13,7 @@
     {
       "id": "ch1",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Chapters/Chapter 01 - Knowing-Yourself.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 01 - Knowing-Yourself/Chapter 01 - Knowing-Yourself.md",
       "x": 1680,
       "y": 630,
       "width": 1290,
@@ -23,7 +23,7 @@
     {
       "id": "co1",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Concepts/Self-awareness and Personal Strengths.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 01 - Knowing-Yourself/Concepts/Self-awareness and Personal Strengths.md",
       "x": 3360,
       "y": 630,
       "width": 1290,
@@ -33,7 +33,7 @@
     {
       "id": "ex1",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Exercises/01 - Knowing-Yourself Activities.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 01 - Knowing-Yourself/Questions/01 - Knowing-Yourself Activities.md",
       "x": 5040,
       "y": 630,
       "width": 1290,
@@ -43,7 +43,7 @@
     {
       "id": "ch2",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Chapters/Chapter 02 - Strive-Forward.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 02 - Strive-Forward/Chapter 02 - Strive-Forward.md",
       "x": 1680,
       "y": 1320,
       "width": 1290,
@@ -53,7 +53,7 @@
     {
       "id": "co2",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Concepts/Resilience and Goal Setting.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 02 - Strive-Forward/Concepts/Resilience and Goal Setting.md",
       "x": 3360,
       "y": 1320,
       "width": 1290,
@@ -63,7 +63,7 @@
     {
       "id": "ex2",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Exercises/02 - Strive-Forward Activities.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 02 - Strive-Forward/Questions/02 - Strive-Forward Activities.md",
       "x": 5040,
       "y": 1320,
       "width": 1290,
@@ -73,7 +73,7 @@
     {
       "id": "ch3",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Chapters/Chapter 03 - Lets-be-Self-reliant.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 03 - Lets-be-Self-reliant/Chapter 03 - Lets-be-Self-reliant.md",
       "x": 1680,
       "y": 2010,
       "width": 1290,
@@ -83,7 +83,7 @@
     {
       "id": "co3",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Concepts/Self-care, Etiquette and Social Conduct.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 03 - Lets-be-Self-reliant/Concepts/Self-care, Etiquette and Social Conduct.md",
       "x": 3360,
       "y": 2010,
       "width": 1290,
@@ -93,7 +93,7 @@
     {
       "id": "ex3",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Exercises/03 - Lets-be-Self-reliant Activities.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 03 - Lets-be-Self-reliant/Questions/03 - Lets-be-Self-reliant Activities.md",
       "x": 5040,
       "y": 2010,
       "width": 1290,
@@ -103,7 +103,7 @@
     {
       "id": "ch4",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Chapters/Chapter 04 - Emotions-and-Wellness.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 04 - Emotions-and-Wellness/Chapter 04 - Emotions-and-Wellness.md",
       "x": 1680,
       "y": 2700,
       "width": 1290,
@@ -113,7 +113,7 @@
     {
       "id": "co4",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Concepts/Emotional Wellness and Coping.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 04 - Emotions-and-Wellness/Concepts/Emotional Wellness and Coping.md",
       "x": 3360,
       "y": 2700,
       "width": 1290,
@@ -123,7 +123,7 @@
     {
       "id": "ex4",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Exercises/04 - Emotions-and-Wellness Activities.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 04 - Emotions-and-Wellness/Questions/04 - Emotions-and-Wellness Activities.md",
       "x": 5040,
       "y": 2700,
       "width": 1290,
@@ -133,7 +133,7 @@
     {
       "id": "ch5",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Chapters/Chapter 05 - Social-Wellness.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 05 - Social-Wellness/Chapter 05 - Social-Wellness.md",
       "x": 1680,
       "y": 3390,
       "width": 1290,
@@ -143,7 +143,7 @@
     {
       "id": "co5",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Concepts/Empathy, Communication and Listening.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 05 - Social-Wellness/Concepts/Empathy, Communication and Listening.md",
       "x": 3360,
       "y": 3390,
       "width": 1290,
@@ -153,7 +153,7 @@
     {
       "id": "ex5",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Exercises/05 - Social-Wellness Activities.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 05 - Social-Wellness/Questions/05 - Social-Wellness Activities.md",
       "x": 5040,
       "y": 3390,
       "width": 1290,
@@ -163,7 +163,7 @@
     {
       "id": "ch6",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Chapters/Chapter 06 - With-the-Rhythm-of-Nature.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 06 - With-the-Rhythm-of-Nature/Chapter 06 - With-the-Rhythm-of-Nature.md",
       "x": 1680,
       "y": 4080,
       "width": 1290,
@@ -173,7 +173,7 @@
     {
       "id": "co6",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Concepts/Environmental Wellness and Sustainable Habits.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 06 - With-the-Rhythm-of-Nature/Concepts/Environmental Wellness and Sustainable Habits.md",
       "x": 3360,
       "y": 4080,
       "width": 1290,
@@ -183,7 +183,7 @@
     {
       "id": "ex6",
       "type": "file",
-      "file": "Class 9/English Medium/Work Education/Exercises/06 - With-the-Rhythm-of-Nature Activities.md",
+      "file": "Class 9/English Medium/Work Education/Chapter 06 - With-the-Rhythm-of-Nature/Questions/06 - With-the-Rhythm-of-Nature Activities.md",
       "x": 5040,
       "y": 4080,
       "width": 1290,

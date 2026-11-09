@@ -12,10 +12,10 @@ tags: [class/9, medium/english, subject/chemistry, type/overview]
 **Kerala SCERT Standard IX, First Edition 2024.** This volume contains Chemical Kinetics (printed pp. 95–112), Solutions (113–132), Non Metals (133–152), and Organic Chemistry (153–174). The rendered pages were visually reviewed for reaction demonstrations, equipment, tables, graphs, allotrope and molecular diagrams, worked formula patterns, assessments and extended activities.
 
 ## Chapters
-- [[Chapters/Chapter 05 - Chemical Kinetics|Chemical Kinetics]]
-- [[Chapters/Chapter 06 - Solutions|Solutions]]
-- [[Chapters/Chapter 07 - Non Metals|Non Metals]]
-- [[Chapters/Chapter 08 - Organic Chemistry|Organic Chemistry]]
+- [[Chapter 05 - Chemical Kinetics/Chapter 05 - Chemical Kinetics|Chemical Kinetics]]
+- [[Chapter 06 - Solutions/Chapter 06 - Solutions|Solutions]]
+- [[Chapter 07 - Non Metals/Chapter 07 - Non Metals|Non Metals]]
+- [[Chapter 08 - Organic Chemistry/Chapter 08 - Organic Chemistry|Organic Chemistry]]
 
 ## Colour legend
 - Red `#FF6B6B`: important concepts

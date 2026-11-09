@@ -16,4 +16,4 @@ A reaction in which an element in a compound is displaced by another element.
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 101.
 
 ## Related notes
-- [[../Chapters/Chapter 05 - Chemical Kinetics]]
+- [[../Chapter 05 - Chemical Kinetics/Chapter 05 - Chemical Kinetics]]

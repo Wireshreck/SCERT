@@ -16,4 +16,4 @@ For a≥0 and b≥0, √a × √b = √(ab), and √(a²)=a for a≥0. Keep nonn
 **Textbook reference:** Mathematics Standard IX Part I, printed pp. 84-92.
 
 ## Related notes
-- [[../Chapters/Chapter 05 - Irrational Multiplication]]
+- [[../Chapter 05 - Irrational Multiplication/Chapter 05 - Irrational Multiplication]]

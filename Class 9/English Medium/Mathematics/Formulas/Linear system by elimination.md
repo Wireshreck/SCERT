@@ -16,4 +16,4 @@ For a₁x+b₁y=c₁ and a₂x+b₂y=c₂, multiply equations as needed so one v
 **Textbook reference:** Mathematics Standard IX Part I, printed pp. 7-18.
 
 ## Related notes
-- [[../Chapters/Chapter 01 - Pairs of Equations]]
+- [[../Chapter 01 - Pairs of Equations/Chapter 01 - Pairs of Equations]]

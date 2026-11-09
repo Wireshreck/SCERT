@@ -12,7 +12,7 @@ tags:
   - medium/english
   - subject/ict
   - type/formula
-source: "[[../../_Source PDFs/ICT Part 1 (2025 Samagra).pdf]]"
+source: "[[../01 - Poster Images/ICT Part 1 (2025 Samagra).pdf]]"
 ---
 # Clock Hand Angular Steps
 
@@ -32,5 +32,5 @@ This accounts for the hour hand’s gradual motion between hour marks. The value
 
 ## Related notes
 
-- [[../Chapters/03 - Let’s Develop Software]]
-- [[../Concepts/Time, Variables and Event-driven Behaviour]]
+- [[../03 - Let’s Develop Software/03 - Let’s Develop Software]]
+- [[../03 - Let’s Develop Software/Concepts/Time, Variables and Event-driven Behaviour]]

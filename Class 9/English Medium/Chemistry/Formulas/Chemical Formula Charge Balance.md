@@ -16,4 +16,4 @@ For an electrically neutral ionic formula, choose the smallest whole-number rati
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 60-64.
 
 ## Related notes
-- [[../Chapters/Chapter 03 - Chemical Bonding]]
+- [[../Chapter 03 - Chemical Bonding/Chapter 03 - Chemical Bonding]]

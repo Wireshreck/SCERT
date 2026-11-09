@@ -16,4 +16,4 @@ For a neutral compound, Σ oxidation numbers = 0. In an element in its uncombine
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 79-81.
 
 ## Related notes
-- [[../Chapters/Chapter 04 - Redox Reactions]]
+- [[../Chapter 04 - Redox Reactions/Chapter 04 - Redox Reactions]]

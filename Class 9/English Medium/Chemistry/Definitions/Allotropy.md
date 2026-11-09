@@ -16,4 +16,4 @@ The phenomenon in which an element occurs in different forms that have different
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 137.
 
 ## Related notes
-- [[../Chapters/Chapter 07 - Non Metals]]
+- [[../Chapter 07 - Non Metals/Chapter 07 - Non Metals]]

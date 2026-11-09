@@ -1,10 +1,20 @@
 from pathlib import Path
 import json, re, sys
-import fitz
+try:
+ import fitz
+except ImportError:
+ fitz=None
 root=Path(__file__).resolve().parents[1]
-pdf_dir=root/'Class 9'/'English Medium'/'_Source PDFs'
+# Source PDFs now live inside the per-chapter folders.
+em_dir=root/'Class 9'/'English Medium'
 errors=[]; warnings=[]; pdf_rows=[]
-for f in sorted(pdf_dir.glob('*.pdf')):
+pdf_files=sorted(em_dir.rglob('*.pdf')) if em_dir.exists() else []
+if not pdf_files:
+ warnings.append('No local source PDFs found under Class 9/English Medium (expected in a fresh clone: PDFs are git-ignored). Restore them to the Chapter folders listed in PDF mappings from SOURCE_CATALOG.json to re-enable PDF checks.')
+for f in pdf_files:
+ if fitz is None:
+  pdf_rows.append({'file':str(f.relative_to(root)).replace('\\','/'),'pages':None,'bytes':f.stat().st_size})
+  continue
  try:
   d=fitz.open(f)
   if not d.is_pdf or d.page_count < 10: errors.append(f'PDF invalid or implausible page count: {f.name}'); continue
@@ -17,11 +27,13 @@ for f in sorted(pdf_dir.glob('*.pdf')):
   pdf_rows.append({'file':str(f.relative_to(root)).replace('\\','/'),'pages':d.page_count,'bytes':f.stat().st_size,'edition_year':year.group(1) if year else None,'text_pages':sum(bool(t.strip()) for t in texts),'blank_text_pages':blank})
  except Exception as e: errors.append(f'Could not open {f.name}: {e}')
 expected_pdf_count=20
-if len(pdf_rows)!=expected_pdf_count: errors.append(f'Expected {expected_pdf_count} source PDFs in the current Class 9 English Medium inventory; found {len(pdf_rows)}')
+# PDFs are git-ignored, so a fresh clone legitimately has zero; only error when some are present but the count is wrong.
+if pdf_rows and len(pdf_rows)!=expected_pdf_count: errors.append(f'Expected {expected_pdf_count} source PDFs in the current Class 9 English Medium inventory; found {len(pdf_rows)}')
 # Frontmatter and wiki links for Markdown notes.
 md_files=list(root.rglob('*.md'))
+pdf_link_warnings=set()
 for p in md_files:
- if '.git' in p.parts or '_Source PDFs' in p.parts: continue
+ if '.git' in p.parts: continue
  raw=p.read_text(encoding='utf-8-sig')
  if p.is_relative_to(root/'Class 9'/'English Medium') and (p.parent != root/'Class 9'/'English Medium' or p.name == 'Class 9 English Medium.md'):
   if not raw.startswith('---\n') or '\n---\n' not in raw[4:]: errors.append(f'Missing or malformed YAML frontmatter: {p.relative_to(root)}')
@@ -30,7 +42,16 @@ for p in md_files:
   if not target: continue
   dest=(p.parent/target)
   candidates=[dest,Path(str(dest)+'.md'),Path(str(dest)+'.canvas'),Path(str(dest)+'.pdf')]
-  if not any(c.exists() for c in candidates): errors.append(f'Unresolved wiki link in {p.relative_to(root)}: [[{target}]]')
+  if not any(c.exists() for c in candidates):
+   # Missing PDFs are git-ignored and expected in a fresh clone; warn, do not fail the link check.
+   if target.lower().endswith('.pdf'):
+    pdf_link_warnings.add(target)
+   else:
+    errors.append(f'Unresolved wiki link in {p.relative_to(root)}: [[{target}]]')
+for t in sorted(pdf_link_warnings):
+ warnings.append(f'Local source PDF not present (git-ignored; restore from SOURCE_CATALOG.json to the Chapter folder): {t}') if len(pdf_link_warnings)<=5 else None
+if len(pdf_link_warnings)>5:
+ warnings.append(f'{len(pdf_link_warnings)} local source PDF links point to git-ignored PDFs not present in this checkout; restore them to the Chapter folders per SOURCE_CATALOG.json / migrate_structure.py mappings.')
 # Canvas JSON, file nodes, IDs/edges, and geometric overlap checks.
 canvas_rows=[]
 for p in root.rglob('*.canvas'):

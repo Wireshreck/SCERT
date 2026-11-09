@@ -16,4 +16,4 @@ The introductory shell-capacity relation is 2n² electrons for shell number n (K
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 16.
 
 ## Related notes
-- [[../Chapters/Chapter 01 - Structure of Atom]]
+- [[../Chapter 01 - Structure of Atom/Chapter 01 - Structure of Atom]]

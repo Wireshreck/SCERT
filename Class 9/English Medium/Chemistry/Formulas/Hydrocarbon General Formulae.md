@@ -16,4 +16,4 @@ For the open-chain families taught here: alkane CₙH₂ₙ₊₂; alkene CₙH�
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 156-159.
 
 ## Related notes
-- [[../Chapters/Chapter 08 - Organic Chemistry]]
+- [[../Chapter 08 - Organic Chemistry/Chapter 08 - Organic Chemistry]]

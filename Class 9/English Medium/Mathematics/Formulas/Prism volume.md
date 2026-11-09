@@ -16,4 +16,4 @@ V=B·h, where B is the area of a base and h is perpendicular distance between th
 **Textbook reference:** Mathematics Standard IX Part II, printed pp. 196-200.
 
 ## Related notes
-- [[../Chapters/Chapter 12 - Prisms]]
+- [[../Chapter 12 - Prisms/Chapter 12 - Prisms]]

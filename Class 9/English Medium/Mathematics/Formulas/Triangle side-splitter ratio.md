@@ -16,4 +16,4 @@ For DE ∥ BC in △ABC: AD/DB = AE/EC and AD/AB = AE/AC. The converse proportio
 **Textbook reference:** Mathematics Standard IX Part I, printed pp. 46-50.
 
 ## Related notes
-- [[../Chapters/Chapter 03 - Parallel Lines]]
+- [[../Chapter 03 - Parallel Lines/Chapter 03 - Parallel Lines]]

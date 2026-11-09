@@ -16,4 +16,4 @@ A chemical bond formed by sharing electrons between combining atoms. The text ca
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 52.
 
 ## Related notes
-- [[../Chapters/Chapter 03 - Chemical Bonding]]
+- [[../Chapter 03 - Chemical Bonding/Chapter 03 - Chemical Bonding]]

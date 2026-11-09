@@ -16,4 +16,4 @@ A solution containing more dissolved solute than is required to saturate it at a
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 120.
 
 ## Related notes
-- [[../Chapters/Chapter 06 - Solutions]]
+- [[../Chapter 06 - Solutions/Chapter 06 - Solutions]]

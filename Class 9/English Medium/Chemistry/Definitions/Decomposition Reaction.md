@@ -16,4 +16,4 @@ The process by which a compound breaks down into two or more substances.
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 99.
 
 ## Related notes
-- [[../Chapters/Chapter 05 - Chemical Kinetics]]
+- [[../Chapter 05 - Chemical Kinetics/Chapter 05 - Chemical Kinetics]]

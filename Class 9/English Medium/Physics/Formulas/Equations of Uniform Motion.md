@@ -17,4 +17,4 @@ For straight-line motion with constant acceleration:
 
 `u` and `v` are initial and final velocities; `a` acceleration; `t` elapsed time; `s` displacement. Choose a positive direction and use signed velocity, acceleration and displacement consistently. The equations apply only when acceleration is uniform. Convert kilometres per hour to metres per second before substitution (`1 km/h = 5/18 m/s`).
 
-**Source:** Chapter 2, printed pp. 44–46. See [[../Concepts/Acceleration and Motion Graphs]].
+**Source:** Chapter 2, printed pp. 44–46. See [[../02 - Equations of Motion/Concepts/Acceleration and Motion Graphs]].

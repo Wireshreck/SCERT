@@ -10,7 +10,7 @@ tags:
   - medium/english
   - subject/biology
   - type/overview
-source: "[[../_Source PDFs/Biology Part 1.pdf]]"
+source: "[[01 - To Life Processes/Biology Part 1.pdf]]"
 ---
 # Biology Part 1 — Subject Overview
 
@@ -20,21 +20,21 @@ This volume develops the connected life processes that keep organisms functionin
 
 ## Chapters
 
-1. [[Chapters/01 - To Life Processes]] — biomolecules, metabolism, internal environment, membrane exchange, photosynthesis, plant nutrition and ecological services (textbook pp. 7–24).
-2. [[Chapters/02 - Digestion and Transport of Nutrients]] — digestion, absorption, human circulation and transport in plants (pp. 25–52).
-3. [[Chapters/03 - Respiration and Excretion]] — gas exchange, cellular respiration, excretion, kidney function and homeostasis (pp. 53–80).
+1. [[01 - To Life Processes/01 - To Life Processes]] — biomolecules, metabolism, internal environment, membrane exchange, photosynthesis, plant nutrition and ecological services (textbook pp. 7–24).
+2. [[02 - Digestion and Transport of Nutrients/02 - Digestion and Transport of Nutrients]] — digestion, absorption, human circulation and transport in plants (pp. 25–52).
+3. [[03 - Respiration and Excretion/03 - Respiration and Excretion]] — gas exchange, cellular respiration, excretion, kidney function and homeostasis (pp. 53–80).
 
 ## Concepts
 
-- [[Concepts/Metabolism and Biomolecules]]
-- [[Concepts/Homeostasis and Membrane Exchange]]
-- [[Concepts/Photosynthesis and Plant Nutrition]]
-- [[Concepts/Digestion and Nutrient Absorption]]
-- [[Concepts/Circulation and Nutrient Transport]]
-- [[Concepts/Plant Vascular Transport]]
-- [[Concepts/Respiration and Gas Exchange]]
-- [[Concepts/Kidney Function and Urine Formation]]
-- [[Concepts/Excretion and Homeostasis]]
+- [[01 - To Life Processes/Concepts/Metabolism and Biomolecules]]
+- [[01 - To Life Processes/Concepts/Homeostasis and Membrane Exchange]]
+- [[01 - To Life Processes/Concepts/Photosynthesis and Plant Nutrition]]
+- [[02 - Digestion and Transport of Nutrients/Concepts/Digestion and Nutrient Absorption]]
+- [[02 - Digestion and Transport of Nutrients/Concepts/Circulation and Nutrient Transport]]
+- [[02 - Digestion and Transport of Nutrients/Concepts/Plant Vascular Transport]]
+- [[03 - Respiration and Excretion/Concepts/Respiration and Gas Exchange]]
+- [[03 - Respiration and Excretion/Concepts/Kidney Function and Urine Formation]]
+- [[03 - Respiration and Excretion/Concepts/Excretion and Homeostasis]]
 
 
 ## Key definitions

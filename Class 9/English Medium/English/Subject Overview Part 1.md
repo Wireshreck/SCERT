@@ -12,9 +12,9 @@ tags: [class/9, medium/english, subject/english, type/overview]
 **Kerala SCERT English Kerala Reader Standard IX Part I, First Edition 2024.** All pages were visually reviewed, including the reading texts, illustrations, response panels, language tables, writing tasks, glossary, note pages and civic inserts. The notes summarize the lessons and language learning without reproducing the textbook texts.
 
 ## Units
-- [[Chapters/Unit 01 - Hours and Years.md|Hours and Years]] — printed pp. 7-40
-- [[Chapters/Unit 02 - Winds of Change.md|Winds of Change]] — printed pp. 41-70
-- [[Chapters/Unit 03 - Aspire and Explore.md|Aspire and Explore]] — printed pp. 71-109
+- [[Unit 01 - Hours and Years/Unit 01 - Hours and Years.md|Hours and Years]] — printed pp. 7-40
+- [[Unit 02 - Winds of Change/Unit 02 - Winds of Change.md|Winds of Change]] — printed pp. 41-70
+- [[Unit 03 - Aspire and Explore/Unit 03 - Aspire and Explore.md|Aspire and Explore]] — printed pp. 71-109
 
 ## Colour legend
 - Red `#FF6B6B`: important concepts and reading ideas

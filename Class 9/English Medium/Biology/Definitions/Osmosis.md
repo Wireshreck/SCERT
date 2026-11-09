@@ -18,7 +18,7 @@ Movement of water molecules from a region of higher water concentration to a reg
 
 ## Related notes
 
-[[../Chapters/01 - To Life Processes]]
+[[../01 - To Life Processes/01 - To Life Processes]]
 
 ## Source
 

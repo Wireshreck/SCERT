@@ -16,4 +16,4 @@ The shared values, customs and practices associated with sport, including partic
 **Textbook reference:** Health and Physical Education Standard IX Activity Book, printed pp. 49.
 
 ## Related notes
-- [[../Chapters/Chapter 04 - Active Society]]
+- [[../Chapter 04 - Active Society/Chapter 04 - Active Society]]

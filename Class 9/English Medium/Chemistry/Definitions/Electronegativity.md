@@ -16,4 +16,4 @@ The relative ability of an atom to attract the shared pair of electrons between 
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 55.
 
 ## Related notes
-- [[../Chapters/Chapter 03 - Chemical Bonding]]
+- [[../Chapter 03 - Chemical Bonding/Chapter 03 - Chemical Bonding]]

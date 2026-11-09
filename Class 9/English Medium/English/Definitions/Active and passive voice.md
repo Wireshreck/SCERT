@@ -17,4 +17,4 @@ In active voice, the grammatical subject performs the action; in passive voice, 
 **Textbook reference:** English Kerala Reader Standard IX Part I, printed pp. 62-65.
 
 ## Related notes
-- [[../Chapters/Unit 02 - Winds of Change]]
+- [[../Unit 02 - Winds of Change/Unit 02 - Winds of Change]]

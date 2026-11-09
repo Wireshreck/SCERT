@@ -16,4 +16,4 @@ A postural deformity involving an excessive outward curve of the upper back. The
 **Textbook reference:** Health and Physical Education Standard IX Activity Book, printed pp. 35-38.
 
 ## Related notes
-- [[../Chapters/Chapter 02 - Achieve Fitness, Preserve Posture]]
+- [[../Chapter 02 - Achieve Fitness, Preserve Posture/Chapter 02 - Achieve Fitness, Preserve Posture]]

@@ -16,4 +16,4 @@ A solution containing the maximum amount of solute that dissolves at a given tem
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 118-119.
 
 ## Related notes
-- [[../Chapters/Chapter 06 - Solutions]]
+- [[../Chapter 06 - Solutions/Chapter 06 - Solutions]]

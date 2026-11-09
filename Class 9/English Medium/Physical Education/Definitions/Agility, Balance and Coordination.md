@@ -16,4 +16,4 @@ Agility is the ability to change direction quickly; balance is the ability to ma
 **Textbook reference:** Health and Physical Education Standard IX Activity Book, printed pp. 26.
 
 ## Related notes
-- [[../Chapters/Chapter 02 - Achieve Fitness, Preserve Posture]]
+- [[../Chapter 02 - Achieve Fitness, Preserve Posture/Chapter 02 - Achieve Fitness, Preserve Posture]]

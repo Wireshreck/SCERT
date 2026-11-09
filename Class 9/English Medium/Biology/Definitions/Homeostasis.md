@@ -18,7 +18,7 @@ Maintenance of a relatively constant composition of the internal environment. Th
 
 ## Related notes
 
-[[../Chapters/01 - To Life Processes]]
+[[../01 - To Life Processes/01 - To Life Processes]]
 
 ## Source
 

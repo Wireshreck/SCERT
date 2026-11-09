@@ -16,4 +16,4 @@ The process involving gain of electrons in a chemical reaction.
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 76.
 
 ## Related notes
-- [[../Chapters/Chapter 04 - Redox Reactions]]
+- [[../Chapter 04 - Redox Reactions/Chapter 04 - Redox Reactions]]

@@ -16,4 +16,4 @@ The energy released when an electron is added to a neutral gaseous atom to form 
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 48.
 
 ## Related notes
-- [[../Chapters/Chapter 03 - Chemical Bonding]]
+- [[../Chapter 03 - Chemical Bonding/Chapter 03 - Chemical Bonding]]

@@ -16,4 +16,4 @@ A colloidal mixture lies between a true solution and suspension; its dispersed p
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 125-126.
 
 ## Related notes
-- [[../Chapters/Chapter 06 - Solutions]]
+- [[../Chapter 06 - Solutions/Chapter 06 - Solutions]]

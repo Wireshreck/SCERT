@@ -16,4 +16,4 @@ A reaction in which two or more simple substances (elements or compounds) combin
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 98.
 
 ## Related notes
-- [[../Chapters/Chapter 05 - Chemical Kinetics]]
+- [[../Chapter 05 - Chemical Kinetics/Chapter 05 - Chemical Kinetics]]

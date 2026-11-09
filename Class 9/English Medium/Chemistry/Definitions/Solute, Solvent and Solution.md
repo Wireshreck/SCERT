@@ -16,4 +16,4 @@ Solute is the substance dissolved; solvent is the substance in which it dissolve
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 114.
 
 ## Related notes
-- [[../Chapters/Chapter 06 - Solutions]]
+- [[../Chapter 06 - Solutions/Chapter 06 - Solutions]]

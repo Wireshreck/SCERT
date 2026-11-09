@@ -10,7 +10,7 @@ tags:
   - medium/english
   - subject/biology
   - type/overview
-source: "[[../_Source PDFs/Biology Part 2.pdf]]"
+source: "[[04 - Behind Movements/Biology Part 2.pdf]]"
 ---
 # Biology Part 2 — Subject Overview
 
@@ -22,9 +22,9 @@ The complete 80-page PDF has been visually reviewed, including chapter pages, di
 
 ## Chapters
 
-4. [[Chapters/04 - Behind Movements]] — movement in organisms, muscles, skeletons, joints, exercise, disorders and plant movements (printed pp. 87–112).
-5. [[Chapters/05 - Reproductive Health]] — gender justice, reproductive health, pregnancy, foetal growth, antenatal care, breastfeeding, vaccination and sexually transmitted infections (pp. 113–138).
-6. [[Chapters/06 - Classification]] — domains, kingdoms, animal and plant groups, viruses, evolutionary trees and DNA barcoding (pp. 139–156).
+4. [[04 - Behind Movements/04 - Behind Movements]] — movement in organisms, muscles, skeletons, joints, exercise, disorders and plant movements (printed pp. 87–112).
+5. [[05 - Reproductive Health/05 - Reproductive Health]] — gender justice, reproductive health, pregnancy, foetal growth, antenatal care, breastfeeding, vaccination and sexually transmitted infections (pp. 113–138).
+6. [[06 - Classification/06 - Classification]] — domains, kingdoms, animal and plant groups, viruses, evolutionary trees and DNA barcoding (pp. 139–156).
 
 ## Color legend
 

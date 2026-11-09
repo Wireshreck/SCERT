@@ -16,4 +16,4 @@ C=πd=2πr, where d=2r. Use the π precision appropriate to the question; the te
 **Textbook reference:** Mathematics Standard IX Part II, printed pp. 154-156.
 
 ## Related notes
-- [[../Chapters/Chapter 08 - Circle Measures]]
+- [[../Chapter 08 - Circle Measures/Chapter 08 - Circle Measures]]

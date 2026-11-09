@@ -12,10 +12,10 @@ tags: [class/9, medium/english, subject/chemistry, type/overview]
 **Kerala SCERT Standard IX, First Edition 2024.** This volume contains four units: Structure of Atom (printed pp. 7–22), Periodic Table (23–42), Chemical Bonding (43–68), and Redox Reactions (69–86). Notes were checked against the rendered pages, including shell and periodic-table diagrams, electron-transfer and Lewis diagrams, data tables, worked equations, assessment pages and practical activities.
 
 ## Chapter map
-- [[Chapters/Chapter 01 - Structure of Atom|Structure of Atom]]
-- [[Chapters/Chapter 02 - Periodic Table|Periodic Table]]
-- [[Chapters/Chapter 03 - Chemical Bonding|Chemical Bonding]]
-- [[Chapters/Chapter 04 - Redox Reactions|Redox Reactions]]
+- [[Chapter 01 - Structure of Atom/Chapter 01 - Structure of Atom|Structure of Atom]]
+- [[Chapter 02 - Periodic Table/Chapter 02 - Periodic Table|Periodic Table]]
+- [[Chapter 03 - Chemical Bonding/Chapter 03 - Chemical Bonding|Chemical Bonding]]
+- [[Chapter 04 - Redox Reactions/Chapter 04 - Redox Reactions|Redox Reactions]]
 
 ## Colour legend
 - Red `#FF6B6B`: important concepts

@@ -16,4 +16,4 @@ A series of organic compounds represented by a general formula whose successive 
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 160-161.
 
 ## Related notes
-- [[../Chapters/Chapter 08 - Organic Chemistry]]
+- [[../Chapter 08 - Organic Chemistry/Chapter 08 - Organic Chemistry]]

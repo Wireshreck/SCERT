@@ -16,4 +16,4 @@ The ability of atoms of an element to combine among themselves; the chapter iden
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 166.
 
 ## Related notes
-- [[../Chapters/Chapter 08 - Organic Chemistry]]
+- [[../Chapter 08 - Organic Chemistry/Chapter 08 - Organic Chemistry]]

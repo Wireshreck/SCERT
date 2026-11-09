@@ -6,7 +6,7 @@ textbook: Physics Standard IX Part 2
 edition: First Edition 2024
 kind: overview
 tags: [class/9, medium/english, subject/physics, type/overview]
-source: "[[../_Source PDFs/Physics Part 2.pdf]]"
+source: "[[05 - Buoyant Force/Physics Part 2.pdf]]"
 ---
 # Physics — Part 2
 
@@ -16,17 +16,17 @@ This volume applies force and energy ideas to fluids, work, electricity and soun
 
 ## Chapters
 
-5. [[Chapters/05 - Buoyant Force]] — buoyancy, Archimedes’ principle, flotation and relative density (printed pp. 95–106).
-6. [[Chapters/06 - Work and Energy]] — work, energy, mechanical energy, conservation and power (pp. 107–130).
-7. [[Chapters/07 - Electric Current]] — charge flow, potential difference, cells, current, Ohm’s law and resistance networks (pp. 131–156).
-8. [[Chapters/08 - Sound]] — vibrating sources, propagation, speed, hearing, music, noise and protection (pp. 157–170).
+5. [[05 - Buoyant Force/05 - Buoyant Force]] — buoyancy, Archimedes’ principle, flotation and relative density (printed pp. 95–106).
+6. [[06 - Work and Energy/06 - Work and Energy]] — work, energy, mechanical energy, conservation and power (pp. 107–130).
+7. [[07 - Electric Current/07 - Electric Current]] — charge flow, potential difference, cells, current, Ohm’s law and resistance networks (pp. 131–156).
+8. [[08 - Sound/08 - Sound]] — vibrating sources, propagation, speed, hearing, music, noise and protection (pp. 157–170).
 
 ## Cross-volume connections
 
-- [[Concepts/Buoyancy and Archimedes Principle]] ↔ [[Concepts/Universal Gravitation]] — apparent weight in a fluid reflects upward buoyant force and downward weight.
-- [[Concepts/Work Energy and Power]] ↔ [[Physics Part 1.canvas|Physics Part 1]] — work links force and displacement; kinetic energy uses motion.
-- [[Concepts/Electric Current and Circuits]] ↔ [[../ICT/Subject Overview|ICT]] — circuit concepts support understanding electrical devices used in ICT.
-- [[Concepts/Sound Production and Propagation]] ↔ [[../Biology/Subject Overview|Biology]] — hearing connects sound waves with the ear and sensory systems.
+- [[05 - Buoyant Force/Concepts/Buoyancy and Archimedes Principle]] ↔ [[04 - Gravitation/Concepts/Universal Gravitation]] — apparent weight in a fluid reflects upward buoyant force and downward weight.
+- [[06 - Work and Energy/Concepts/Work Energy and Power]] ↔ [[Physics Part 1.canvas|Physics Part 1]] — work links force and displacement; kinetic energy uses motion.
+- [[07 - Electric Current/Concepts/Electric Current and Circuits]] ↔ [[../ICT/Subject Overview|ICT]] — circuit concepts support understanding electrical devices used in ICT.
+- [[08 - Sound/Concepts/Sound Production and Propagation]] ↔ [[../Biology/Subject Overview|Biology]] — hearing connects sound waves with the ear and sensory systems.
 
 ## Color legend
 
@@ -34,4 +34,4 @@ This volume applies force and energy ideas to fluids, work, electricity and soun
 
 ## Source
 
-SCERT Kerala, *Physics, Standard IX, Part 2*, First Edition 2024. Source: [[../EDITION_AUDIT]] and [[../_Source PDFs/Physics Part 2.pdf]].
+SCERT Kerala, *Physics, Standard IX, Part 2*, First Edition 2024. Source: [[../EDITION_AUDIT]] and [[05 - Buoyant Force/Physics Part 2.pdf]].

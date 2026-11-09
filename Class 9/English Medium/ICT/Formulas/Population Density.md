@@ -12,7 +12,7 @@ tags:
   - medium/english
   - subject/ict
   - type/formula
-source: "[[../../_Source PDFs/ICT Part 1 (2025 Samagra).pdf]]"
+source: "[[../01 - Poster Images/ICT Part 1 (2025 Samagra).pdf]]"
 ---
 # Population Density
 
@@ -26,6 +26,6 @@ In the textbook’s Calc table, the example for Uttar Pradesh divides the popula
 
 ## Related notes
 
-- [[../Chapters/04 - Data Analysis Made Easy]]
-- [[../Concepts/Data, Information and Spreadsheet Workbooks]]
-- [[../Concepts/Categorization with LOOKUP]]
+- [[../04 - Data Analysis Made Easy/04 - Data Analysis Made Easy]]
+- [[../04 - Data Analysis Made Easy/Concepts/Data, Information and Spreadsheet Workbooks]]
+- [[../04 - Data Analysis Made Easy/Concepts/Categorization with LOOKUP]]

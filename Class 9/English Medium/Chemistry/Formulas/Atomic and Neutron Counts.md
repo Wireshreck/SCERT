@@ -16,4 +16,4 @@ A = Z + N; N = A − Z. Here A is mass number, Z is atomic number (protons), and
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 18-20.
 
 ## Related notes
-- [[../Chapters/Chapter 01 - Structure of Atom]]
+- [[../Chapter 01 - Structure of Atom/Chapter 01 - Structure of Atom]]

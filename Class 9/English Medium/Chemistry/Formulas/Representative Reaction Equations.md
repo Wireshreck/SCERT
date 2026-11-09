@@ -16,4 +16,4 @@ Examples shown in the chapter include combination: N₂ + 3H₂ → 2NH₃; deco
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 98-101.
 
 ## Related notes
-- [[../Chapters/Chapter 05 - Chemical Kinetics]]
+- [[../Chapter 05 - Chemical Kinetics/Chapter 05 - Chemical Kinetics]]

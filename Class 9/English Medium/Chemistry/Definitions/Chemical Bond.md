@@ -16,4 +16,4 @@ The force of attraction that holds together the constituent particles of a compo
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 45.
 
 ## Related notes
-- [[../Chapters/Chapter 03 - Chemical Bonding]]
+- [[../Chapter 03 - Chemical Bonding/Chapter 03 - Chemical Bonding]]

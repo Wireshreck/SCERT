@@ -16,4 +16,4 @@ A ratio relating body mass to squared height: BMI = mass in kilograms ÷ (height
 **Textbook reference:** Health and Physical Education Standard IX Activity Book, printed pp. 22.
 
 ## Related notes
-- [[../Chapters/Chapter 01 - Food-Health-Happiness]]
+- [[../Chapter 01 - Food-Health-Happiness/Chapter 01 - Food-Health-Happiness]]

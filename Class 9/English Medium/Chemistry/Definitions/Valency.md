@@ -16,4 +16,4 @@ The number of electrons lost, gained or shared by an atom during a chemical reac
 **Textbook reference:** Chemistry Standard IX Part I, printed pp. 58.
 
 ## Related notes
-- [[../Chapters/Chapter 03 - Chemical Bonding]]
+- [[../Chapter 03 - Chemical Bonding/Chapter 03 - Chemical Bonding]]

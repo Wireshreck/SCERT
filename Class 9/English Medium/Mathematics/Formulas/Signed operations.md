@@ -16,4 +16,4 @@ a−b=a+(−b). For multiplication/division, same signs produce a positive resul
 **Textbook reference:** Mathematics Standard IX Part I, printed pp. 123-140.
 
 ## Related notes
-- [[../Chapters/Chapter 07 - Negative Numbers]]
+- [[../Chapter 07 - Negative Numbers/Chapter 07 - Negative Numbers]]

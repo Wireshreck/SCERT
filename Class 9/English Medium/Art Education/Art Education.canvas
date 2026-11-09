@@ -13,7 +13,7 @@
     {
       "id": "ch1",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Chapters/Chapter 01 - Nature.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 01 - Nature/Chapter 01 - Nature.md",
       "x": 1680,
       "y": 630,
       "width": 1290,
@@ -23,7 +23,7 @@
     {
       "id": "co1",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Concepts/Traditional Art and Cultural Context.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 01 - Nature/Concepts/Traditional Art and Cultural Context.md",
       "x": 3360,
       "y": 630,
       "width": 1290,
@@ -33,7 +33,7 @@
     {
       "id": "ex1",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Exercises/01 - Nature Activities.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 01 - Nature/Questions/01 - Nature Activities.md",
       "x": 5040,
       "y": 630,
       "width": 1290,
@@ -43,7 +43,7 @@
     {
       "id": "ch2",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Chapters/Chapter 02 - Design,-Shades,-Landscape.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 02 - Design,-Shades,-Landscape/Chapter 02 - Design,-Shades,-Landscape.md",
       "x": 1680,
       "y": 1320,
       "width": 1290,
@@ -53,7 +53,7 @@
     {
       "id": "co2",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Concepts/Music Forms and Performance.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 02 - Design,-Shades,-Landscape/Concepts/Music Forms and Performance.md",
       "x": 3360,
       "y": 1320,
       "width": 1290,
@@ -63,7 +63,7 @@
     {
       "id": "ex2",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Exercises/02 - Design,-Shades,-Landscape Activities.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 02 - Design,-Shades,-Landscape/Questions/02 - Design,-Shades,-Landscape Activities.md",
       "x": 5040,
       "y": 1320,
       "width": 1290,
@@ -73,7 +73,7 @@
     {
       "id": "ch3",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Chapters/Chapter 03 - Experience-of-Emotions.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 03 - Experience-of-Emotions/Chapter 03 - Experience-of-Emotions.md",
       "x": 1680,
       "y": 2010,
       "width": 1290,
@@ -83,7 +83,7 @@
     {
       "id": "co3",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Concepts/Printmaking Methods.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 03 - Experience-of-Emotions/Concepts/Printmaking Methods.md",
       "x": 3360,
       "y": 2010,
       "width": 1290,
@@ -93,7 +93,7 @@
     {
       "id": "ex3",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Exercises/03 - Experience-of-Emotions Activities.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 03 - Experience-of-Emotions/Questions/03 - Experience-of-Emotions Activities.md",
       "x": 5040,
       "y": 2010,
       "width": 1290,
@@ -103,7 +103,7 @@
     {
       "id": "ch4",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Chapters/Chapter 04 - Applied-Lessons.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 04 - Applied-Lessons/Chapter 04 - Applied-Lessons.md",
       "x": 1680,
       "y": 2700,
       "width": 1290,
@@ -113,7 +113,7 @@
     {
       "id": "co4",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Concepts/Script, Storyboard and Production.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 04 - Applied-Lessons/Concepts/Script, Storyboard and Production.md",
       "x": 3360,
       "y": 2700,
       "width": 1290,
@@ -123,7 +123,7 @@
     {
       "id": "ex4",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Exercises/04 - Applied-Lessons Activities.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 04 - Applied-Lessons/Questions/04 - Applied-Lessons Activities.md",
       "x": 5040,
       "y": 2700,
       "width": 1290,
@@ -133,7 +133,7 @@
     {
       "id": "ch5",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Chapters/Chapter 05 - Performance-Platform.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 05 - Performance-Platform/Chapter 05 - Performance-Platform.md",
       "x": 1680,
       "y": 3390,
       "width": 1290,
@@ -143,7 +143,7 @@
     {
       "id": "co5",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Concepts/Emotion, Colour and Expression.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 05 - Performance-Platform/Concepts/Emotion, Colour and Expression.md",
       "x": 3360,
       "y": 3390,
       "width": 1290,
@@ -153,7 +153,7 @@
     {
       "id": "ex5",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Exercises/05 - Performance-Platform Activities.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 05 - Performance-Platform/Questions/05 - Performance-Platform Activities.md",
       "x": 5040,
       "y": 3390,
       "width": 1290,
@@ -163,7 +163,7 @@
     {
       "id": "ch6",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Chapters/Chapter 06 - Window-of-Creativity.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 06 - Window-of-Creativity/Chapter 06 - Window-of-Creativity.md",
       "x": 1680,
       "y": 4080,
       "width": 1290,
@@ -173,7 +173,7 @@
     {
       "id": "co6",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Concepts/Dance, Abhinaya and Choreography.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 06 - Window-of-Creativity/Concepts/Dance, Abhinaya and Choreography.md",
       "x": 3360,
       "y": 4080,
       "width": 1290,
@@ -183,7 +183,7 @@
     {
       "id": "ex6",
       "type": "file",
-      "file": "Class 9/English Medium/Art Education/Exercises/06 - Window-of-Creativity Activities.md",
+      "file": "Class 9/English Medium/Art Education/Chapter 06 - Window-of-Creativity/Questions/06 - Window-of-Creativity Activities.md",
       "x": 5040,
       "y": 4080,
       "width": 1290,

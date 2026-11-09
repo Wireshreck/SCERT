@@ -17,7 +17,7 @@ Class 9 English Medium is complete for all common subjects and current textbooks
 
 ## Folder architecture
 
-`Class 9/English Medium/<Subject>/` contains the subject overview, chapter notes, substantial concept notes, definitions/formulas where useful, exercises/activities, and one Canvas per textbook. `_Source PDFs/` retains original PDFs locally. `scripts/` contains reproducible build and validation utilities. `.review/` contains temporary page renders and is excluded from Git.
+`Class 9/English Medium/<Subject>/` contains one folder per chapter/unit (named after the chapter note, e.g. `01 - To Life Processes/`). Each chapter folder holds the chapter note, `Concepts/` (concept notes), `Questions/` (exercise/activity guides) and the source PDF for its part. `Definitions/` and `Formulas/` remain at subject level alongside `Subject Overview*.md` and one Canvas per textbook (`<Subject> Part N.canvas`). `scripts/` contains reproducible build and validation utilities. `.review/` contains temporary page renders and is excluded from Git, as are PDFs (kept locally because redistribution permission was not established).
 
 ## Canvas colour legend
 

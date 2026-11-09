@@ -16,4 +16,4 @@ For p(x)=aₙxⁿ+…+a₁x+a₀ with aₙ≠0, degree(p)=n. The textbook exampl
 **Textbook reference:** Mathematics Standard IX Part II, printed pp. 179-184.
 
 ## Related notes
-- [[../Chapters/Chapter 10 - Polynomials]]
+- [[../Chapter 10 - Polynomials/Chapter 10 - Polynomials]]

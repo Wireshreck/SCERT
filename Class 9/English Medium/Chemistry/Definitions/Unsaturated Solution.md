@@ -16,4 +16,4 @@ A solution containing less solute than required to saturate it at a particular t
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 119.
 
 ## Related notes
-- [[../Chapters/Chapter 06 - Solutions]]
+- [[../Chapter 06 - Solutions/Chapter 06 - Solutions]]

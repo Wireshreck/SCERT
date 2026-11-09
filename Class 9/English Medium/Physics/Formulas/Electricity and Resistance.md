@@ -15,6 +15,6 @@ tags: [class/9, medium/english, subject/physics, type/formula]
 - Series resistors: `R_eq = R₁ + R₂ + …`.
 - Two parallel resistors: `1/R_eq = 1/R₁ + 1/R₂` (or `R_eq=R₁R₂/(R₁+R₂)`).
 
-`Q` charge (coulomb), `t` time (s), `V` potential difference (volt), `W` work (joule), `I` current (ampere), `R` resistance (ohm). Circuit topology matters: series has common current; parallel has common voltage. See [[../Concepts/Electric Current and Circuits]].
+`Q` charge (coulomb), `t` time (s), `V` potential difference (volt), `W` work (joule), `I` current (ampere), `R` resistance (ohm). Circuit topology matters: series has common current; parallel has common voltage. See [[../07 - Electric Current/Concepts/Electric Current and Circuits]].
 
-**Source:** Chapter 7, printed pp. 134–152. See [[../Chapters/07 - Electric Current]].
+**Source:** Chapter 7, printed pp. 134–152. See [[../07 - Electric Current/07 - Electric Current]].

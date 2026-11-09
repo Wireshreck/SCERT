@@ -16,4 +16,4 @@ The process by which plant remains are converted into carbon at high temperature
 **Textbook reference:** Chemistry Standard IX Part II, printed pp. 168.
 
 ## Related notes
-- [[../Chapters/Chapter 08 - Organic Chemistry]]
+- [[../Chapter 08 - Organic Chemistry/Chapter 08 - Organic Chemistry]]

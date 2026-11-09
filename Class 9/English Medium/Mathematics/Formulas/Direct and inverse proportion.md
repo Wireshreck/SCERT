@@ -16,4 +16,4 @@ Direct: y=kx, so y₁/x₁=y₂/x₂=k. Inverse: xy=k, so x₁y₁=x₂y₂=k.
 **Textbook reference:** Mathematics Standard IX Part II, printed pp. 223-232.
 
 ## Related notes
-- [[../Chapters/Chapter 14 - Proportion]]
+- [[../Chapter 14 - Proportion/Chapter 14 - Proportion]]

@@ -16,4 +16,4 @@ For a central angle θ° and radius r: s=(θ/360°)·2πr. The fraction θ/360°
 **Textbook reference:** Mathematics Standard IX Part II, printed pp. 186-190.
 
 ## Related notes
-- [[../Chapters/Chapter 11 - Parts of Circles]]
+- [[../Chapter 11 - Parts of Circles/Chapter 11 - Parts of Circles]]

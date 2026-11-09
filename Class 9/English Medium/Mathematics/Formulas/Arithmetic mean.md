@@ -16,4 +16,4 @@ Ungrouped mean x̄=Σx/n. Frequency mean x̄=Σ(fx)/Σf. For grouped intervals, 
 **Textbook reference:** Mathematics Standard IX Part II, printed pp. 234-242.
 
 ## Related notes
-- [[../Chapters/Chapter 15 - Statistics]]
+- [[../Chapter 15 - Statistics/Chapter 15 - Statistics]]
